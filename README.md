@@ -23,7 +23,7 @@ OR
 | <br>[![Alt][2]][2]<p>.NET</p> | <br>[![Alt][3]][3]<p>1001Tracklists</p> | <br>[![Alt][4]][4]<p>1Password</p> | <br>[![Alt][5]][5]<p>3M</p> | <br>[![Alt][6]][6]<p>4D</p> | <br>[![Alt][7]][7]<p>500px</p> |
 | :---------------------------: | :-------------------------------------: | :--------------------------------: | :-------------------------: | :-------------------------: | :----------------------------: |
 
-[2]: https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=.NET&logoColor=white
+[2]: https://img.shields.io/badge/.NET-512BD4.svg?style=for-the-badge&logo=dot-net&logoColor=white
 
 [3]: https://img.shields.io/badge/1001Tracklists-40AEF0.svg?style=for-the-badge&logo=1001Tracklists&logoColor=white
 
@@ -76,7 +76,7 @@ OR
 
 [11]: https://img.shields.io/badge/Ableton%20Live-000000.svg?style=for-the-badge&logo=Ableton-Live&logoColor=white
 
-[12]: https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=About.me&logoColor=white
+[12]: https://img.shields.io/badge/About.me-00A98F.svg?style=for-the-badge&logo=about-dot-me&logoColor=white
 
 [13]: https://img.shields.io/badge/Abstract-191A1B.svg?style=for-the-badge&logo=Abstract&logoColor=white
 
@@ -186,7 +186,7 @@ OR
 
 [66]: https://img.shields.io/badge/Alibaba%20Cloud-FF6A00.svg?style=for-the-badge&logo=Alibaba-Cloud&logoColor=white
 
-[67]: https://img.shields.io/badge/Alibaba.com-FF6A00.svg?style=for-the-badge&logo=Alibaba.com&logoColor=white
+[67]: https://img.shields.io/badge/Alibaba.com-FF6A00.svg?style=for-the-badge&logo=alibaba-dot-com&logoColor=white
 
 [68]: https://img.shields.io/badge/AliExpress-FF4747.svg?style=for-the-badge&logo=AliExpress&logoColor=white
 
@@ -200,7 +200,7 @@ OR
 
 [73]: https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?style=for-the-badge&logo=Alpine-Linux&logoColor=white
 
-[74]: https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=for-the-badge&logo=Alpine.js&logoColor=black
+[74]: https://img.shields.io/badge/Alpine.js-8BC0D0.svg?style=for-the-badge&logo=alpinedotjs&logoColor=black
 
 [75]: https://img.shields.io/badge/Altium%20Designer-A5915F.svg?style=for-the-badge&logo=Altium-Designer&logoColor=white
 
@@ -378,7 +378,7 @@ OR
 
 [162]: https://img.shields.io/badge/ASUS-000000.svg?style=for-the-badge&logo=ASUS&logoColor=white
 
-[163]: https://img.shields.io/badge/AT&T-009FDB.svg?style=for-the-badge&logo=AT&T&logoColor=white
+[163]: https://img.shields.io/badge/AT&T-009FDB.svg?style=for-the-badge&logo=at-and-t&logoColor=white
 
 [164]: https://img.shields.io/badge/Atari-E4202E.svg?style=for-the-badge&logo=Atari&logoColor=white
 
@@ -479,7 +479,7 @@ OR
 
 [205]: https://img.shields.io/badge/Bath%20ASU-00A3E0.svg?style=for-the-badge&logo=Bath-ASU&logoColor=white
 
-[206]: https://img.shields.io/badge/Battle.net-00AEFF.svg?style=for-the-badge&logo=Battle.net&logoColor=white
+[206]: https://img.shields.io/badge/Battle.net-00AEFF.svg?style=for-the-badge&logo=battle-dot-net&logoColor=white
 
 [207]: https://img.shields.io/badge/BBC-000000.svg?style=for-the-badge&logo=BBC&logoColor=white
 
@@ -535,7 +535,7 @@ OR
 
 [233]: https://img.shields.io/badge/Blender-F5792A.svg?style=for-the-badge&logo=Blender&logoColor=white
 
-[234]: https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=Blockchain.com&logoColor=white
+[234]: https://img.shields.io/badge/Blockchain.com-121D33.svg?style=for-the-badge&logo=blockchain-dot-com&logoColor=white
 
 [235]: https://img.shields.io/badge/Blogger-FF5722.svg?style=for-the-badge&logo=Blogger&logoColor=white
 
@@ -567,7 +567,7 @@ OR
 
 [249]: https://img.shields.io/badge/Box-0061D5.svg?style=for-the-badge&logo=Box&logoColor=white
 
-[250]: https://img.shields.io/badge/Brand.ai-0AA0FF.svg?style=for-the-badge&logo=Brand.ai&logoColor=white
+[250]: https://img.shields.io/badge/Brand.ai-0AA0FF.svg?style=for-the-badge&logo=brand-dot-ai&logoColor=white
 
 [251]: https://img.shields.io/badge/Brandfolder-40D1F5.svg?style=for-the-badge&logo=Brandfolder&logoColor=white
 
@@ -681,7 +681,7 @@ OR
 
 [294]: https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white
 
-[295]: https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=Chart.js&logoColor=white
+[295]: https://img.shields.io/badge/Chart.js-FF6384.svg?style=for-the-badge&logo=chart-dot-js&logoColor=white
 
 [296]: https://img.shields.io/badge/ChartMogul-13324B.svg?style=for-the-badge&logo=ChartMogul&logoColor=white
 
@@ -912,7 +912,7 @@ OR
 |     <br>[![Alt][469]][469]<p>Drone</p>    |      <br>[![Alt][470]][470]<p>Drooble</p>     |   <br>[![Alt][471]][471]<p>Dropbox</p>   |     <br>[![Alt][472]][472]<p>Drupal</p>    |    <br>[![Alt][473]][473]<p>DS Automobiles</p>    |     <br>[![Alt][474]][474]<p>DTube</p>     |
 |  <br>[![Alt][475]][475]<p>DuckDuckGo</p>  |      <br>[![Alt][476]][476]<p>Dunked</p>      |   <br>[![Alt][477]][477]<p>Duolingo</p>  |      <br>[![Alt][478]][478]<p>dwm</p>      |     <br>[![Alt][479]][479]<p>Dynamics 365</p>     |   <br>[![Alt][480]][480]<p>Dynatrace</p>   |
 
-[403]: https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=D3.js&logoColor=white
+[403]: https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=d3-dot-js&logoColor=white
 
 [404]: https://img.shields.io/badge/Dacia-122AFF.svg?style=for-the-badge&logo=Dacia&logoColor=white
 
@@ -984,7 +984,7 @@ OR
 
 [438]: https://img.shields.io/badge/Deutsche%20Bank-0018A8.svg?style=for-the-badge&logo=Deutsche-Bank&logoColor=white
 
-[439]: https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=dev.to&logoColor=white
+[439]: https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=dev-dot-to&logoColor=white
 
 [440]: https://img.shields.io/badge/DeviantArt-05CC47.svg?style=for-the-badge&logo=DeviantArt&logoColor=white
 
@@ -996,7 +996,7 @@ OR
 
 [444]: https://img.shields.io/badge/DHL-FFCC00.svg?style=for-the-badge&logo=DHL&logoColor=black
 
-[445]: https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white
+[445]: https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagrams-dot-net&logoColor=white
 
 [446]: https://img.shields.io/badge/Dialogflow-FF9800.svg?style=for-the-badge&logo=Dialogflow&logoColor=white
 
@@ -1040,7 +1040,7 @@ OR
 
 [466]: https://img.shields.io/badge/Douban-007722.svg?style=for-the-badge&logo=Douban&logoColor=white
 
-[467]: https://img.shields.io/badge/Draugiem.lv-FF6600.svg?style=for-the-badge&logo=Draugiem.lv&logoColor=white
+[467]: https://img.shields.io/badge/Draugiem.lv-FF6600.svg?style=for-the-badge&logo=draugiem-dot-lv&logoColor=white
 
 [468]: https://img.shields.io/badge/Dribbble-EA4C89.svg?style=for-the-badge&logo=Dribbble&logoColor=white
 
@@ -1094,7 +1094,7 @@ OR
 
 [487]: https://img.shields.io/badge/Eclipse%20Mosquitto-3C5280.svg?style=for-the-badge&logo=Eclipse-Mosquitto&logoColor=white
 
-[488]: https://img.shields.io/badge/Eclipse%20Vert.x-782A90.svg?style=for-the-badge&logo=Eclipse-Vert.x&logoColor=white
+[488]: https://img.shields.io/badge/Eclipse%20Vert.x-782A90.svg?style=for-the-badge&logo=eclipsevert-dot-x&logoColor=white
 
 [489]: https://img.shields.io/badge/EditorConfig-FEFEFE.svg?style=for-the-badge&logo=EditorConfig&logoColor=black
 
@@ -1134,7 +1134,7 @@ OR
 
 [507]: https://img.shields.io/badge/Embarcadero-ED1F35.svg?style=for-the-badge&logo=Embarcadero&logoColor=white
 
-[508]: https://img.shields.io/badge/Ember.js-E04E39.svg?style=for-the-badge&logo=Ember.js&logoColor=white
+[508]: https://img.shields.io/badge/Ember.js-E04E39.svg?style=for-the-badge&logo=ember-dot-js&logoColor=white
 
 [509]: https://img.shields.io/badge/Emby-52B54B.svg?style=for-the-badge&logo=Emby&logoColor=white
 
@@ -1257,7 +1257,7 @@ OR
 
 [561]: https://img.shields.io/badge/Ferrari-D40000.svg?style=for-the-badge&logo=Ferrari&logoColor=white
 
-[562]: https://img.shields.io/badge/Ferrari%20N.V.-EB2E2C.svg?style=for-the-badge&logo=Ferrari-N.V.&logoColor=white
+[562]: https://img.shields.io/badge/Ferrari%20N.V.-EB2E2C.svg?style=for-the-badge&logo=ferrarin-dot-v-dot&logoColor=white
 
 [563]: https://img.shields.io/badge/FFmpeg-007808.svg?style=for-the-badge&logo=FFmpeg&logoColor=white
 
@@ -1351,7 +1351,7 @@ OR
 
 [608]: https://img.shields.io/badge/freeCodeCamp-0A0A23.svg?style=for-the-badge&logo=freeCodeCamp&logoColor=white
 
-[609]: https://img.shields.io/badge/freedesktop.org-3B80AE.svg?style=for-the-badge&logo=freedesktop.org&logoColor=white
+[609]: https://img.shields.io/badge/freedesktop.org-3B80AE.svg?style=for-the-badge&logo=freedesktop-dot-org&logoColor=white
 
 [610]: https://img.shields.io/badge/Freelancer-29B2FE.svg?style=for-the-badge&logo=Freelancer&logoColor=white
 
@@ -1473,7 +1473,7 @@ OR
 
 [659]: https://img.shields.io/badge/GoFundMe-00B964.svg?style=for-the-badge&logo=GoFundMe&logoColor=white
 
-[660]: https://img.shields.io/badge/GOG.com-86328A.svg?style=for-the-badge&logo=GOG.com&logoColor=white
+[660]: https://img.shields.io/badge/GOG.com-86328A.svg?style=for-the-badge&logo=gog-dot-com&logoColor=white
 
 [661]: https://img.shields.io/badge/GoldenLine-FFE005.svg?style=for-the-badge&logo=GoldenLine&logoColor=black
 
@@ -1557,7 +1557,7 @@ OR
 
 [701]: https://img.shields.io/badge/GoToMeeting-F68D2E.svg?style=for-the-badge&logo=GoToMeeting&logoColor=white
 
-[702]: https://img.shields.io/badge/GOV.UK-005EA5.svg?style=for-the-badge&logo=GOV.UK&logoColor=white
+[702]: https://img.shields.io/badge/GOV.UK-005EA5.svg?style=for-the-badge&logo=gov-dot-uk&logoColor=white
 
 [703]: https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white
 
@@ -1702,7 +1702,7 @@ OR
 
 [767]: https://img.shields.io/badge/Hoppscotch-31C48D.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white
 
-[768]: https://img.shields.io/badge/Hotels.com-D32F2F.svg?style=for-the-badge&logo=Hotels.com&logoColor=white
+[768]: https://img.shields.io/badge/Hotels.com-D32F2F.svg?style=for-the-badge&logo=hotels-dot-com&logoColor=white
 
 [769]: https://img.shields.io/badge/Hotjar-FD3A5C.svg?style=for-the-badge&logo=Hotjar&logoColor=white
 
@@ -1849,7 +1849,7 @@ OR
 
 [835]: https://img.shields.io/badge/Issuu-F36D5D.svg?style=for-the-badge&logo=Issuu&logoColor=white
 
-[836]: https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=Itch.io&logoColor=white
+[836]: https://img.shields.io/badge/Itch.io-FA5C5C.svg?style=for-the-badge&logo=itch-dot-io&logoColor=white
 
 [837]: https://img.shields.io/badge/iTunes-FB5BC5.svg?style=for-the-badge&logo=iTunes&logoColor=white
 
@@ -2070,7 +2070,7 @@ OR
 
 [930]: https://img.shields.io/badge/Laravel%20Nova-252D37.svg?style=for-the-badge&logo=Laravel-Nova&logoColor=white
 
-[931]: https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=Last.fm&logoColor=white
+[931]: https://img.shields.io/badge/Last.fm-D51007.svg?style=for-the-badge&logo=last-dot-fm&logoColor=white
 
 [932]: https://img.shields.io/badge/LastPass-D32D27.svg?style=for-the-badge&logo=LastPass&logoColor=white
 
@@ -2100,7 +2100,7 @@ OR
 
 [945]: https://img.shields.io/badge/Liberapay-F6C915.svg?style=for-the-badge&logo=Liberapay&logoColor=black
 
-[946]: https://img.shields.io/badge/Libraries.io-337AB7.svg?style=for-the-badge&logo=Libraries.io&logoColor=white
+[946]: https://img.shields.io/badge/Libraries.io-337AB7.svg?style=for-the-badge&logo=libraries-dot-io&logoColor=white
 
 [947]: https://img.shields.io/badge/LibraryThing-251A15.svg?style=for-the-badge&logo=LibraryThing&logoColor=white
 
@@ -2207,7 +2207,7 @@ OR
 
 [988]: https://img.shields.io/badge/Magisk-00AF9C.svg?style=for-the-badge&logo=Magisk&logoColor=white
 
-[989]: https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=Mail.Ru&logoColor=white
+[989]: https://img.shields.io/badge/Mail.Ru-005FF9.svg?style=for-the-badge&logo=mail-dot-ru&logoColor=white
 
 [990]: https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black
 
@@ -2311,7 +2311,7 @@ OR
 
 [1040]: https://img.shields.io/badge/micro:bit-00ED00.svg?style=for-the-badge&logo=micro:bit&logoColor=white
 
-[1041]: https://img.shields.io/badge/Micro.blog-FF8800.svg?style=for-the-badge&logo=Micro.blog&logoColor=white
+[1041]: https://img.shields.io/badge/Micro.blog-FF8800.svg?style=for-the-badge&logo=micro-dot-blog&logoColor=white
 
 [1042]: https://img.shields.io/badge/Microgenetics-FF0000.svg?style=for-the-badge&logo=Microgenetics&logoColor=white
 
@@ -2479,7 +2479,7 @@ OR
 
 [1118]: https://img.shields.io/badge/New%20York%20Times-000000.svg?style=for-the-badge&logo=New-York-Times&logoColor=white
 
-[1119]: https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=Next.js&logoColor=white
+[1119]: https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next-dot-js&logoColor=white
 
 [1120]: https://img.shields.io/badge/Nextcloud-0082C9.svg?style=for-the-badge&logo=Nextcloud&logoColor=white
 
@@ -2511,7 +2511,7 @@ OR
 
 [1134]: https://img.shields.io/badge/NodeRED-8F0000.svg?style=for-the-badge&logo=Node-RED&logoColor=white
 
-[1135]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=Node.js&logoColor=white
+[1135]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white
 
 [1136]: https://img.shields.io/badge/Nodemon-76D04B.svg?style=for-the-badge&logo=Nodemon&logoColor=white
 
@@ -2545,7 +2545,7 @@ OR
 
 [1151]: https://img.shields.io/badge/Nutanix-024DA1.svg?style=for-the-badge&logo=Nutanix&logoColor=white
 
-[1152]: https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=for-the-badge&logo=Nuxt.js&logoColor=white
+[1152]: https://img.shields.io/badge/Nuxt.js-00C58E.svg?style=for-the-badge&logo=nuxt-dot-js&logoColor=white
 
 [1153]: https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white
 
@@ -2718,7 +2718,7 @@ OR
 
 [1220]: https://img.shields.io/badge/Parity%20Substrate-282828.svg?style=for-the-badge&logo=Parity-Substrate&logoColor=white
 
-[1221]: https://img.shields.io/badge/Parse.ly-5BA745.svg?style=for-the-badge&logo=Parse.ly&logoColor=white
+[1221]: https://img.shields.io/badge/Parse.ly-5BA745.svg?style=for-the-badge&logo=parse-dot-ly&logoColor=white
 
 [1222]: https://img.shields.io/badge/Passport-34E27A.svg?style=for-the-badge&logo=Passport&logoColor=white
 
@@ -2772,7 +2772,7 @@ OR
 
 [1247]: https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logo=Pi-hole&logoColor=white
 
-[1248]: https://img.shields.io/badge/Picarto.TV-1DA456.svg?style=for-the-badge&logo=Picarto.TV&logoColor=white
+[1248]: https://img.shields.io/badge/Picarto.TV-1DA456.svg?style=for-the-badge&logo=picarto-dot-tv&logoColor=white
 
 [1249]: https://img.shields.io/badge/Picnic-E1171E.svg?style=for-the-badge&logo=Picnic&logoColor=white
 
@@ -2810,7 +2810,7 @@ OR
 
 [1266]: https://img.shields.io/badge/Player%20FM-C8122A.svg?style=for-the-badge&logo=Player-FM&logoColor=white
 
-[1267]: https://img.shields.io/badge/Player.me-C0379A.svg?style=for-the-badge&logo=Player.me&logoColor=white
+[1267]: https://img.shields.io/badge/Player.me-C0379A.svg?style=for-the-badge&logo=player-dot-me&logoColor=white
 
 [1268]: https://img.shields.io/badge/PlayStation-003791.svg?style=for-the-badge&logo=PlayStation&logoColor=white
 
@@ -2876,7 +2876,7 @@ OR
 
 [1299]: https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=PowerShell&logoColor=white
 
-[1300]: https://img.shields.io/badge/pr.co-0080FF.svg?style=for-the-badge&logo=pr.co&logoColor=white
+[1300]: https://img.shields.io/badge/pr.co-0080FF.svg?style=for-the-badge&logo=pr-dot-co&logoColor=white
 
 [1301]: https://img.shields.io/badge/precommit-FAB040.svg?style=for-the-badge&logo=pre-commit&logoColor=black
 
@@ -2916,9 +2916,9 @@ OR
 
 [1319]: https://img.shields.io/badge/ProSieben-E6000F.svg?style=for-the-badge&logo=ProSieben&logoColor=white
 
-[1320]: https://img.shields.io/badge/Proto.io-34A7C1.svg?style=for-the-badge&logo=Proto.io&logoColor=white
+[1320]: https://img.shields.io/badge/Proto.io-34A7C1.svg?style=for-the-badge&logo=proto-dot-io&logoColor=white
 
-[1321]: https://img.shields.io/badge/protocols.io-4D9FE7.svg?style=for-the-badge&logo=protocols.io&logoColor=white
+[1321]: https://img.shields.io/badge/protocols.io-4D9FE7.svg?style=for-the-badge&logo=protocols-dot-io&logoColor=white
 
 [1322]: https://img.shields.io/badge/ProtonDB-F50057.svg?style=for-the-badge&logo=ProtonDB&logoColor=white
 
@@ -3091,7 +3091,7 @@ OR
 
 [1396]: https://img.shields.io/badge/Renren-217DC6.svg?style=for-the-badge&logo=Renren&logoColor=white
 
-[1397]: https://img.shields.io/badge/repl.it-667881.svg?style=for-the-badge&logo=repl.it&logoColor=white
+[1397]: https://img.shields.io/badge/repl.it-667881.svg?style=for-the-badge&logo=repl-dot-it&logoColor=white
 
 [1398]: https://img.shields.io/badge/ResearchGate-00CCBB.svg?style=for-the-badge&logo=ResearchGate&logoColor=white
 
@@ -3101,7 +3101,7 @@ OR
 
 [1401]: https://img.shields.io/badge/RetroPie-CC0000.svg?style=for-the-badge&logo=RetroPie&logoColor=white
 
-[1402]: https://img.shields.io/badge/reveal.js-F2E142.svg?style=for-the-badge&logo=reveal.js&logoColor=black
+[1402]: https://img.shields.io/badge/reveal.js-F2E142.svg?style=for-the-badge&logo=reveal-dot-js&logoColor=black
 
 [1403]: https://img.shields.io/badge/ReverbNation-E43526.svg?style=for-the-badge&logo=ReverbNation&logoColor=white
 
@@ -3131,13 +3131,13 @@ OR
 
 [1416]: https://img.shields.io/badge/Robot%20Framework-000000.svg?style=for-the-badge&logo=Robot-Framework&logoColor=white
 
-[1417]: https://img.shields.io/badge/Rocket.Chat-F5455C.svg?style=for-the-badge&logo=Rocket.Chat&logoColor=white
+[1417]: https://img.shields.io/badge/Rocket.Chat-F5455C.svg?style=for-the-badge&logo=rocket-dot-chat&logoColor=white
 
 [1418]: https://img.shields.io/badge/Roku-662D91.svg?style=for-the-badge&logo=Roku&logoColor=white
 
 [1419]: https://img.shields.io/badge/RollsRoyce-281432.svg?style=for-the-badge&logo=Rolls-Royce&logoColor=white
 
-[1420]: https://img.shields.io/badge/rollup.js-EC4A3F.svg?style=for-the-badge&logo=rollup.js&logoColor=white
+[1420]: https://img.shields.io/badge/rollup.js-EC4A3F.svg?style=for-the-badge&logo=rollup-dot-js&logoColor=white
 
 [1421]: https://img.shields.io/badge/Roots-525DDC.svg?style=for-the-badge&logo=Roots&logoColor=white
 
@@ -3232,7 +3232,7 @@ OR
 
 [1449]: https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white
 
-[1450]: https://img.shields.io/badge/Sat.1-047DA3.svg?style=for-the-badge&logo=Sat.1&logoColor=white
+[1450]: https://img.shields.io/badge/Sat.1-047DA3.svg?style=for-the-badge&logo=sat-dot-1&logoColor=white
 
 [1451]: https://img.shields.io/badge/Sauce%20Labs-E2231A.svg?style=for-the-badge&logo=Sauce-Labs&logoColor=white
 
@@ -3312,7 +3312,7 @@ OR
 
 [1489]: https://img.shields.io/badge/Shenzhen%20Metro-009943.svg?style=for-the-badge&logo=Shenzhen-Metro&logoColor=white
 
-[1490]: https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=Shields.io&logoColor=white
+[1490]: https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shields-dot-io&logoColor=white
 
 [1491]: https://img.shields.io/badge/Shikimori-343434.svg?style=for-the-badge&logo=Shikimori&logoColor=white
 
@@ -3392,7 +3392,7 @@ OR
 
 [1529]: https://img.shields.io/badge/Society6-000000.svg?style=for-the-badge&logo=Society6&logoColor=white
 
-[1530]: https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=Socket.io&logoColor=white
+[1530]: https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socket-dot-io&logoColor=white
 
 [1531]: https://img.shields.io/badge/Sogou-FB6022.svg?style=for-the-badge&logo=Sogou&logoColor=white
 
@@ -3705,7 +3705,7 @@ OR
 
 [1676]: https://img.shields.io/badge/ThinkPad-EE2624.svg?style=for-the-badge&logo=ThinkPad&logoColor=white
 
-[1677]: https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=Three.js&logoColor=white
+[1677]: https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=three-dot-js&logoColor=white
 
 [1678]: https://img.shields.io/badge/Threema-3FE669.svg?style=for-the-badge&logo=Threema&logoColor=white
 
@@ -3779,7 +3779,7 @@ OR
 
 [1713]: https://img.shields.io/badge/Trino-DD00A1.svg?style=for-the-badge&logo=Trino&logoColor=white
 
-[1714]: https://img.shields.io/badge/Trip.com-287DFA.svg?style=for-the-badge&logo=Trip.com&logoColor=white
+[1714]: https://img.shields.io/badge/Trip.com-287DFA.svg?style=for-the-badge&logo=trip-dot-com&logoColor=white
 
 [1715]: https://img.shields.io/badge/Tripadvisor-34E0A1.svg?style=for-the-badge&logo=Tripadvisor&logoColor=white
 
@@ -3986,7 +3986,7 @@ OR
 
 [1808]: https://img.shields.io/badge/VSCO-000000.svg?style=for-the-badge&logo=VSCO&logoColor=white
 
-[1809]: https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=Vue.js&logoColor=white
+[1809]: https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vue-dot-js&logoColor=white
 
 [1810]: https://img.shields.io/badge/Vuetify-1867C0.svg?style=for-the-badge&logo=Vuetify&logoColor=white
 
@@ -4016,7 +4016,7 @@ OR
 
 [1817]: https://img.shields.io/badge/Wappalyzer-32067C.svg?style=for-the-badge&logo=Wappalyzer&logoColor=white
 
-[1818]: https://img.shields.io/badge/Warner%20Bros.-004DB4.svg?style=for-the-badge&logo=Warner-Bros.&logoColor=white
+[1818]: https://img.shields.io/badge/Warner%20Bros.-004DB4.svg?style=for-the-badge&logo=warnerbros-dot&logoColor=white
 
 [1819]: https://img.shields.io/badge/Wattpad-FF500A.svg?style=for-the-badge&logo=Wattpad&logoColor=white
 
@@ -4030,7 +4030,7 @@ OR
 
 [1824]: https://img.shields.io/badge/WebAuthn-3423A6.svg?style=for-the-badge&logo=WebAuthn&logoColor=white
 
-[1825]: https://img.shields.io/badge/webcomponents.org-29ABE2.svg?style=for-the-badge&logo=webcomponents.org&logoColor=white
+[1825]: https://img.shields.io/badge/webcomponents.org-29ABE2.svg?style=for-the-badge&logo=webcomponents-dot-org&logoColor=white
 
 [1826]: https://img.shields.io/badge/WebdriverIO-EA5906.svg?style=for-the-badge&logo=WebdriverIO&logoColor=white
 
@@ -4052,7 +4052,7 @@ OR
 
 [1835]: https://img.shields.io/badge/WeChat-07C160.svg?style=for-the-badge&logo=WeChat&logoColor=white
 
-[1836]: https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=for-the-badge&logo=Weights-&-Biases&logoColor=black
+[1836]: https://img.shields.io/badge/Weights%20&%20Biases-FFBE00.svg?style=for-the-badge&logo=weights-and-biases&logoColor=black
 
 [1837]: https://img.shields.io/badge/WEMO-72D44C.svg?style=for-the-badge&logo=WEMO&logoColor=white
 
@@ -4124,7 +4124,7 @@ OR
 
 [1871]: https://img.shields.io/badge/WP%20Rocket-F56640.svg?style=for-the-badge&logo=WP-Rocket&logoColor=white
 
-[1872]: https://img.shields.io/badge/write.as-5BC4EE.svg?style=for-the-badge&logo=write.as&logoColor=white
+[1872]: https://img.shields.io/badge/write.as-5BC4EE.svg?style=for-the-badge&logo=write-dot-as&logoColor=white
 
 [1873]: https://img.shields.io/badge/WWE-000000.svg?style=for-the-badge&logo=WWE&logoColor=white
 
@@ -4135,7 +4135,7 @@ OR
 | <br>[![Alt][1881]][1881]<p>XDA Developers</p> |   <br>[![Alt][1882]][1882]<p>Xero</p>  |  <br>[![Alt][1883]][1883]<p>XFCE</p>  | <br>[![Alt][1884]][1884]<p>Xiaomi</p> | <br>[![Alt][1885]][1885]<p>Xilinx</p> |  <br>[![Alt][1886]][1886]<p>Xing</p> |
 |      <br>[![Alt][1887]][1887]<p>XMPP</p>      |   <br>[![Alt][1888]][1888]<p>XRP</p>   | <br>[![Alt][1889]][1889]<p>XSplit</p> | <br>[![Alt][1890]][1890]<p>XState</p> |                                       |                                      |
 
-[1875]: https://img.shields.io/badge/X.Org-F28834.svg?style=for-the-badge&logo=X.Org&logoColor=white
+[1875]: https://img.shields.io/badge/X.Org-F28834.svg?style=for-the-badge&logo=x-dot-org&logoColor=white
 
 [1876]: https://img.shields.io/badge/Xamarin-3498DB.svg?style=for-the-badge&logo=Xamarin&logoColor=white
 
@@ -4192,7 +4192,7 @@ OR
 
 [1900]: https://img.shields.io/badge/Yoast-A4286A.svg?style=for-the-badge&logo=Yoast&logoColor=white
 
-[1901]: https://img.shields.io/badge/YourTravel.TV-F79025.svg?style=for-the-badge&logo=YourTravel.TV&logoColor=white
+[1901]: https://img.shields.io/badge/YourTravel.TV-F79025.svg?style=for-the-badge&logo=yourtravel-dot-tv&logoColor=white
 
 [1902]: https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
 
