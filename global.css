@@ -50,7 +50,36 @@ html {
     background-color: var(--background);
     color: var(--cardText);
 }
-
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover {
+    color: var(--cardText);
+    text-decoration: underline;
+}
+.header__item,
+.header__title {
+    font-family: "Roboto Mono","DejaVu Sans Mono","Consolas",monospace;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.header__item {
+    float: right;
+    justify-content: flex-end;
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+.header__title {
+    float: left;
+    justify-content: flex-start;
+    font-size: 1.7rem;
+    font-weight: 600;
+}
+.header {
+    background-color: var(--background);
+}
 .card {
     background-color: var(--cardBackground);
     border-radius: 4px;
