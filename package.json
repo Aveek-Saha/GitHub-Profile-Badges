@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Aveek-Saha/GitHub-Profile-Badges/issues"
   },
-  "homepage": "https://github.com/Aveek-Saha/GitHub-Profile-Badges#readme"
+  "homepage": "https://github.com/Aveek-Saha/GitHub-Profile-Badges#readme",
+  "dependencies": {
+    "simple-icons": "^4.23.0"
+  }
 }
