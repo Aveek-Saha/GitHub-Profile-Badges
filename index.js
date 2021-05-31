@@ -1,5 +1,7 @@
 const simpleIcons = require('simple-icons');
 
+const { hexToRGB } = require('./utils')
+
 var data = []
 
 for (const title in simpleIcons) {
@@ -11,4 +13,4 @@ for (const title in simpleIcons) {
     }
     data.push(iconData)
 }
-console.log(data);
+console.log(hexToRGB(data[1].hex));
