@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/Aveek-Saha/GitHub-Profile-Badges#readme",
   "dependencies": {
+    "markdown-table": "^2.0.0",
     "simple-icons": "^4.23.0"
+  },
+  "devDependencies": {
+    "markdown-magic": "^2.0.0"
   }
 }
