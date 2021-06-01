@@ -23,8 +23,9 @@ for (const title in simpleIcons) {
     //     hex: icon.hex,
     //     icon: ratio < 1 / 3 ? "ffffff" : "000000"
     // };
-    const logo = icon.title.split(" ").join("-");
-    const name = icon.title.split("-").join("");
+    const titleNorm = icon.title.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    const logo = titleNorm.split(" ").join("-");
+    const name = titleNorm.split("-").join("");
     const src = `https://img.shields.io/badge/${name}-${
         icon.hex
     }.svg?style=for-the-badge&logo=${logo}&logoColor=${
@@ -33,8 +34,8 @@ for (const title in simpleIcons) {
     const link = `\`${src}\``;
 
     const iconData = [
-        icon.title,
-        `<img alt="${icon.title}" src="${src}"/>`,
+        titleNorm,
+        `<a href="${src}"><img alt="${titleNorm}" src="${src}"/></a>`,
         link,
     ];
     data.push(iconData);
@@ -76,6 +77,7 @@ function generate(data) {
                         });
                         output +=
                             table([["Badge", "Link"], ...cols]) +
+
                             "\n\n</details>\n\n";
                         // console.log(cols);
                     }
