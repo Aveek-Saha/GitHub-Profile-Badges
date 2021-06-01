@@ -32,14 +32,20 @@ for (const title in simpleIcons) {
     }`;
     const link = `\`${src}\``;
 
-    const iconData = [icon.title, `	<img alt="${icon.title}" src="${src}"/>`, link];
+    const iconData = [
+        icon.title,
+        `<img alt="${icon.title}" src="${src}"/>`,
+        link,
+    ];
     data.push(iconData);
 }
 
 const groupNames = (arr) => {
     const map = arr.reduce((acc, val) => {
         let char = val[0].charAt(0).toUpperCase();
-        if(!acc[char]) acc[char] = []
+        let alpha = /^[a-zA-Z]+$/;
+        if (!char.match(alpha)) char = "#";
+        if (!acc[char]) acc[char] = [];
         else acc[char].push(val);
         return acc;
     }, {});
@@ -49,13 +55,27 @@ const groupNames = (arr) => {
     }));
     return res;
 };
-console.log(groupNames(data)[0].names[0]);
+
+const catData = groupNames(data);
+// console.log(groupNames(data));
 
 function generate(data) {
     const config = {
         transforms: {
             BADGES() {
-                return table([["Badge", "Link"], ...data]);
+                var output = "";
+                for (const key in catData) {
+                    if (Object.hasOwnProperty.call(catData, key)) {
+                        const element = catData[key];
+                        output += "<h1>" + element.letter + "</h1> \n\n";
+                        var cols = element.names.map((el) => {
+                            return [el[1], el[2]];
+                        });
+                        output += table([["Badge", "Link"], ...cols]) + "\n\n";
+                        // console.log(cols);
+                    }
+                }
+                return output;
             },
         },
     };
@@ -65,6 +85,6 @@ function generate(data) {
     });
 }
 
-// generate(data);
+generate(data);
 
 // console.log(data);
