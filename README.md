@@ -1,6 +1,8 @@
 # GitHub Profile Badges
 Clean badges for your GitHub Profile Readme
 
+# Badges
+
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (BADGES) -->
 | Badge                                                                                                                                                                                                | Link                                                                                                                                                                    |

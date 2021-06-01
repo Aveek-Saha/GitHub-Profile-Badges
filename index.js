@@ -30,11 +30,26 @@ for (const title in simpleIcons) {
     }.svg?style=for-the-badge&logo=${logo}&logoColor=${
         lumBg < 0.69 ? "white" : "black"
     }`;
-    const link = `<pre lang="html">${src}</pre>`
+    const link = `\`${src}\``;
 
-    const iconData = [`	<img alt="${icon.title}" src="${src}"/>`, link];
+    const iconData = [icon.title, `	<img alt="${icon.title}" src="${src}"/>`, link];
     data.push(iconData);
 }
+
+const groupNames = (arr) => {
+    const map = arr.reduce((acc, val) => {
+        let char = val[0].charAt(0).toUpperCase();
+        if(!acc[char]) acc[char] = []
+        else acc[char].push(val);
+        return acc;
+    }, {});
+    const res = Object.keys(map).map((el) => ({
+        letter: el,
+        names: map[el],
+    }));
+    return res;
+};
+console.log(groupNames(data)[0].names[0]);
 
 function generate(data) {
     const config = {
@@ -50,6 +65,6 @@ function generate(data) {
     });
 }
 
-generate(data);
+// generate(data);
 
 // console.log(data);
