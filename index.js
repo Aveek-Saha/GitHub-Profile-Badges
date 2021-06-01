@@ -23,15 +23,16 @@ for (const title in simpleIcons) {
     //     hex: icon.hex,
     //     icon: ratio < 1 / 3 ? "ffffff" : "000000"
     // };
+    const logo = icon.title.split(" ").join("-");
+    const name = icon.title.split("-").join("");
+    const src = `https://img.shields.io/badge/${name}-${
+        icon.hex
+    }.svg?style=for-the-badge&logo=${logo}&logoColor=${
+        lumBg < 0.69 ? "white" : "black"
+    }`;
+    const link = `<pre lang="json"></pre>`
 
-    const iconData = [
-        icon.title,
-        `	<img alt="Python" src="https://img.shields.io/badge/${icon.title}-${
-            icon.hex
-        }.svg?style=for-the-badge&logo=${icon.slug}&logoColor=${
-            ratio < 1 / 3 ? "ffffff" : "000000"
-        }"/>`,
-    ];
+    const iconData = [`	<img alt="${icon.title}" src="${src}"/>`, icon.title];
     data.push(iconData);
 }
 
@@ -39,7 +40,7 @@ function generate(data) {
     const config = {
         transforms: {
             BADGES() {
-                return table([["Name", "Badge"], ...data]);
+                return table([["Badge", "Name"], ...data]);
             },
         },
     };
@@ -49,6 +50,6 @@ function generate(data) {
     });
 }
 
-generate(data)
+generate(data);
 
-console.log(data);
+// console.log(data);
