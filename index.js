@@ -30,9 +30,9 @@ for (const title in simpleIcons) {
     }.svg?style=for-the-badge&logo=${logo}&logoColor=${
         lumBg < 0.69 ? "white" : "black"
     }`;
-    const link = `<pre lang="json"></pre>`
+    const link = `<pre lang="html">${src}</pre>`
 
-    const iconData = [`	<img alt="${icon.title}" src="${src}"/>`, icon.title];
+    const iconData = [`	<img alt="${icon.title}" src="${src}"/>`, link];
     data.push(iconData);
 }
 
@@ -40,7 +40,7 @@ function generate(data) {
     const config = {
         transforms: {
             BADGES() {
-                return table([["Badge", "Name"], ...data]);
+                return table([["Badge", "Link"], ...data]);
             },
         },
     };
