@@ -67,11 +67,16 @@ function generate(data) {
                 for (const key in catData) {
                     if (Object.hasOwnProperty.call(catData, key)) {
                         const element = catData[key];
-                        output += "<h1>" + element.letter + "</h1> \n\n";
+                        output +=
+                            "<h1>" +
+                            element.letter +
+                            "</h1>\n\n<details><summary>Click to expand!</summary> \n\n";
                         var cols = element.names.map((el) => {
                             return [el[1], el[2]];
                         });
-                        output += table([["Badge", "Link"], ...cols]) + "\n\n";
+                        output +=
+                            table([["Badge", "Link"], ...cols]) +
+                            "\n\n</details>\n\n";
                         // console.log(cols);
                     }
                 }

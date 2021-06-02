@@ -5,7 +5,9 @@ Clean badges for your GitHub Profile Readme
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (BADGES) -->
-<h1>#</h1> 
+<h1>#</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                            | Link                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -17,7 +19,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="500px" src="https://img.shields.io/badge/500px-0099E5.svg?style=for-the-badge&logo=500px&logoColor=white"/>                            | `https://img.shields.io/badge/500px-0099E5.svg?style=for-the-badge&logo=500px&logoColor=white`                   |
 | <img alt="ŠKODA" src="https://img.shields.io/badge/ŠKODA-4BA82E.svg?style=for-the-badge&logo=ŠKODA&logoColor=white"/>                            | `https://img.shields.io/badge/ŠKODA-4BA82E.svg?style=for-the-badge&logo=ŠKODA&logoColor=white`                   |
 
-<h1>A</h1> 
+</details>
+
+<h1>A</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                       | Link                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -203,7 +209,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Azure Functions" src="https://img.shields.io/badge/Azure Functions-0062AD.svg?style=for-the-badge&logo=Azure-Functions&logoColor=white"/>                         | `https://img.shields.io/badge/Azure Functions-0062AD.svg?style=for-the-badge&logo=Azure-Functions&logoColor=white`                 |
 | <img alt="Azure Pipelines" src="https://img.shields.io/badge/Azure Pipelines-2560E0.svg?style=for-the-badge&logo=Azure-Pipelines&logoColor=white"/>                         | `https://img.shields.io/badge/Azure Pipelines-2560E0.svg?style=for-the-badge&logo=Azure-Pipelines&logoColor=white`                 |
 
-<h1>B</h1> 
+</details>
+
+<h1>B</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                               | Link                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -286,7 +296,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="BuzzFeed" src="https://img.shields.io/badge/BuzzFeed-EE3322.svg?style=for-the-badge&logo=BuzzFeed&logoColor=white"/>                      | `https://img.shields.io/badge/BuzzFeed-EE3322.svg?style=for-the-badge&logo=BuzzFeed&logoColor=white`               |
 | <img alt="byte" src="https://img.shields.io/badge/byte-551DEF.svg?style=for-the-badge&logo=byte&logoColor=white"/>                                  | `https://img.shields.io/badge/byte-551DEF.svg?style=for-the-badge&logo=byte&logoColor=white`                       |
 
-<h1>C</h1> 
+</details>
+
+<h1>C</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                          | Link                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -423,7 +437,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Cycling '74" src="https://img.shields.io/badge/Cycling '74-111111.svg?style=for-the-badge&logo=Cycling-'74&logoColor=white"/>                                        | `https://img.shields.io/badge/Cycling '74-111111.svg?style=for-the-badge&logo=Cycling-'74&logoColor=white`                           |
 | <img alt="Cypress" src="https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white"/>                                                    | `https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white`                                   |
 
-<h1>D</h1> 
+</details>
+
+<h1>D</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                             | Link                                                                                                                        |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
@@ -506,7 +524,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Dynamics 365" src="https://img.shields.io/badge/Dynamics 365-002050.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white"/>                        | `https://img.shields.io/badge/Dynamics 365-002050.svg?style=for-the-badge&logo=Dynamics-365&logoColor=white`                |
 | <img alt="Dynatrace" src="https://img.shields.io/badge/Dynatrace-1496FF.svg?style=for-the-badge&logo=Dynatrace&logoColor=white"/>                                 | `https://img.shields.io/badge/Dynatrace-1496FF.svg?style=for-the-badge&logo=Dynatrace&logoColor=white`                      |
 
-<h1>E</h1> 
+</details>
+
+<h1>E</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                        | Link                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -567,7 +589,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Express" src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white"/>                                  | `https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white`                       |
 | <img alt="EyeEm" src="https://img.shields.io/badge/EyeEm-000000.svg?style=for-the-badge&logo=EyeEm&logoColor=white"/>                                        | `https://img.shields.io/badge/EyeEm-000000.svg?style=for-the-badge&logo=EyeEm&logoColor=white`                           |
 
-<h1>F</h1> 
+</details>
+
+<h1>F</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                      | Link                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -650,7 +676,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Furry Network" src="https://img.shields.io/badge/Furry Network-2E75B4.svg?style=for-the-badge&logo=Furry-Network&logoColor=white"/>                              | `https://img.shields.io/badge/Furry Network-2E75B4.svg?style=for-the-badge&logo=Furry-Network&logoColor=white`                    |
 | <img alt="FutureLearn" src="https://img.shields.io/badge/FutureLearn-DE00A5.svg?style=for-the-badge&logo=FutureLearn&logoColor=white"/>                                    | `https://img.shields.io/badge/FutureLearn-DE00A5.svg?style=for-the-badge&logo=FutureLearn&logoColor=white`                        |
 
-<h1>G</h1> 
+</details>
+
+<h1>G</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                 | Link                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -758,7 +788,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Gumtree" src="https://img.shields.io/badge/Gumtree-72EF36.svg?style=for-the-badge&logo=Gumtree&logoColor=black"/>                                           | `https://img.shields.io/badge/Gumtree-72EF36.svg?style=for-the-badge&logo=Gumtree&logoColor=black`                             |
 | <img alt="Gutenberg" src="https://img.shields.io/badge/Gutenberg-000000.svg?style=for-the-badge&logo=Gutenberg&logoColor=white"/>                                     | `https://img.shields.io/badge/Gutenberg-000000.svg?style=for-the-badge&logo=Gutenberg&logoColor=white`                         |
 
-<h1>H</h1> 
+</details>
+
+<h1>H</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                                            | Link                                                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -828,7 +862,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Hypothesis" src="https://img.shields.io/badge/Hypothesis-BD1C2B.svg?style=for-the-badge&logo=Hypothesis&logoColor=white"/>                                                             | `https://img.shields.io/badge/Hypothesis-BD1C2B.svg?style=for-the-badge&logo=Hypothesis&logoColor=white`                                         |
 | <img alt="Hyundai" src="https://img.shields.io/badge/Hyundai-002C5F.svg?style=for-the-badge&logo=Hyundai&logoColor=white"/>                                                                      | `https://img.shields.io/badge/Hyundai-002C5F.svg?style=for-the-badge&logo=Hyundai&logoColor=white`                                               |
 
-<h1>I</h1> 
+</details>
+
+<h1>I</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                     | Link                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
@@ -884,7 +922,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="iTunes" src="https://img.shields.io/badge/iTunes-FB5BC5.svg?style=for-the-badge&logo=iTunes&logoColor=white"/>                                  | `https://img.shields.io/badge/iTunes-FB5BC5.svg?style=for-the-badge&logo=iTunes&logoColor=white`                       |
 | <img alt="IVECO" src="https://img.shields.io/badge/IVECO-004994.svg?style=for-the-badge&logo=IVECO&logoColor=white"/>                                     | `https://img.shields.io/badge/IVECO-004994.svg?style=for-the-badge&logo=IVECO&logoColor=white`                         |
 
-<h1>J</h1> 
+</details>
+
+<h1>J</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                  | Link                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -927,7 +969,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Just Eat" src="https://img.shields.io/badge/Just Eat-F36D00.svg?style=for-the-badge&logo=Just-Eat&logoColor=white"/>                         | `https://img.shields.io/badge/Just Eat-F36D00.svg?style=for-the-badge&logo=Just-Eat&logoColor=white`                 |
 | <img alt="JustGiving" src="https://img.shields.io/badge/JustGiving-AD29B6.svg?style=for-the-badge&logo=JustGiving&logoColor=white"/>                   | `https://img.shields.io/badge/JustGiving-AD29B6.svg?style=for-the-badge&logo=JustGiving&logoColor=white`             |
 
-<h1>K</h1> 
+</details>
+
+<h1>K</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                                | Link                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -976,7 +1022,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Kubuntu" src="https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white"/>                                                          | `https://img.shields.io/badge/Kubuntu-0079C1.svg?style=for-the-badge&logo=Kubuntu&logoColor=white`                                       |
 | <img alt="Kyocera" src="https://img.shields.io/badge/Kyocera-DF0522.svg?style=for-the-badge&logo=Kyocera&logoColor=white"/>                                                          | `https://img.shields.io/badge/Kyocera-DF0522.svg?style=for-the-badge&logo=Kyocera&logoColor=white`                                       |
 
-<h1>L</h1> 
+</details>
+
+<h1>L</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                  | Link                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
@@ -1041,7 +1091,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Lydia" src="https://img.shields.io/badge/Lydia-0180FF.svg?style=for-the-badge&logo=Lydia&logoColor=white"/>                                  | `https://img.shields.io/badge/Lydia-0180FF.svg?style=for-the-badge&logo=Lydia&logoColor=white`                       |
 | <img alt="Lyft" src="https://img.shields.io/badge/Lyft-FF00BF.svg?style=for-the-badge&logo=Lyft&logoColor=white"/>                                     | `https://img.shields.io/badge/Lyft-FF00BF.svg?style=for-the-badge&logo=Lyft&logoColor=white`                         |
 
-<h1>M</h1> 
+</details>
+
+<h1>M</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                                      | Link                                                                                                                                         |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1159,7 +1213,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Myspace" src="https://img.shields.io/badge/Myspace-030303.svg?style=for-the-badge&logo=Myspace&logoColor=white"/>                                                                | `https://img.shields.io/badge/Myspace-030303.svg?style=for-the-badge&logo=Myspace&logoColor=white`                                           |
 | <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>                                                                      | `https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white`                                               |
 
-<h1>N</h1> 
+</details>
+
+<h1>N</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                      | Link                                                                                                                              |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
@@ -1220,7 +1278,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="NVIDIA" src="https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white"/>                                                   | `https://img.shields.io/badge/NVIDIA-76B900.svg?style=for-the-badge&logo=NVIDIA&logoColor=white`                                  |
 | <img alt="Nx" src="https://img.shields.io/badge/Nx-143055.svg?style=for-the-badge&logo=Nx&logoColor=white"/>                                                               | `https://img.shields.io/badge/Nx-143055.svg?style=for-the-badge&logo=Nx&logoColor=white`                                          |
 
-<h1>O</h1> 
+</details>
+
+<h1>O</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                                | Link                                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1278,7 +1340,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Oxygen" src="https://img.shields.io/badge/Oxygen-3A209E.svg?style=for-the-badge&logo=Oxygen&logoColor=white"/>                                                             | `https://img.shields.io/badge/Oxygen-3A209E.svg?style=for-the-badge&logo=Oxygen&logoColor=white`                                         |
 | <img alt="OYO" src="https://img.shields.io/badge/OYO-EE2E24.svg?style=for-the-badge&logo=OYO&logoColor=white"/>                                                                      | `https://img.shields.io/badge/OYO-EE2E24.svg?style=for-the-badge&logo=OYO&logoColor=white`                                               |
 
-<h1>P</h1> 
+</details>
+
+<h1>P</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                       | Link                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
@@ -1414,7 +1480,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white"/>                                                 | `https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white`                                 |
 | <img alt="PyUp" src="https://img.shields.io/badge/PyUp-9F55FF.svg?style=for-the-badge&logo=PyUp&logoColor=white"/>                                                          | `https://img.shields.io/badge/PyUp-9F55FF.svg?style=for-the-badge&logo=PyUp&logoColor=white`                                       |
 
-<h1>Q</h1> 
+</details>
+
+<h1>Q</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                         | Link                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
@@ -1442,7 +1512,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Qwiklabs" src="https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black"/>                | `https://img.shields.io/badge/Qwiklabs-F5CD0E.svg?style=for-the-badge&logo=Qwiklabs&logoColor=black`           |
 | <img alt="Qzone" src="https://img.shields.io/badge/Qzone-FECE00.svg?style=for-the-badge&logo=Qzone&logoColor=black"/>                         | `https://img.shields.io/badge/Qzone-FECE00.svg?style=for-the-badge&logo=Qzone&logoColor=black`                 |
 
-<h1>R</h1> 
+</details>
+
+<h1>R</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                                   | Link                                                                                                                                       |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
@@ -1520,7 +1594,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white"/>                                                                      | `https://img.shields.io/badge/Rust-000000.svg?style=for-the-badge&logo=Rust&logoColor=white`                                               |
 | <img alt="Ryanair" src="https://img.shields.io/badge/Ryanair-073590.svg?style=for-the-badge&logo=Ryanair&logoColor=white"/>                                                             | `https://img.shields.io/badge/Ryanair-073590.svg?style=for-the-badge&logo=Ryanair&logoColor=white`                                         |
 
-<h1>S</h1> 
+</details>
+
+<h1>S</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                                               | Link                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1719,7 +1797,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="SymPy" src="https://img.shields.io/badge/SymPy-3B5526.svg?style=for-the-badge&logo=SymPy&logoColor=white"/>                                                                               | `https://img.shields.io/badge/SymPy-3B5526.svg?style=for-the-badge&logo=SymPy&logoColor=white`                                                     |
 | <img alt="Synology" src="https://img.shields.io/badge/Synology-B5B5B6.svg?style=for-the-badge&logo=Synology&logoColor=black"/>                                                                      | `https://img.shields.io/badge/Synology-B5B5B6.svg?style=for-the-badge&logo=Synology&logoColor=black`                                               |
 
-<h1>T</h1> 
+</details>
+
+<h1>T</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                 | Link                                                                                                                           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
@@ -1825,7 +1907,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white"/>                                  | `https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white`                       |
 | <img alt="TYPO3" src="https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white"/>                                                 | `https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white`                                 |
 
-<h1>U</h1> 
+</details>
+
+<h1>U</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                               | Link                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
@@ -1858,7 +1944,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Upwork" src="https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white"/>                            | `https://img.shields.io/badge/Upwork-6FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white`                   |
 | <img alt="USPS" src="https://img.shields.io/badge/USPS-333366.svg?style=for-the-badge&logo=USPS&logoColor=white"/>                                  | `https://img.shields.io/badge/USPS-333366.svg?style=for-the-badge&logo=USPS&logoColor=white`                       |
 
-<h1>V</h1> 
+</details>
+
+<h1>V</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                        | Link                                                                                                                     |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------ |
@@ -1909,7 +1999,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Vulkan" src="https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=Vulkan&logoColor=white"/>                                     | `https://img.shields.io/badge/Vulkan-AC162C.svg?style=for-the-badge&logo=Vulkan&logoColor=white`                         |
 | <img alt="Vultr" src="https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=Vultr&logoColor=white"/>                                        | `https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=Vultr&logoColor=white`                           |
 
-<h1>W</h1> 
+</details>
+
+<h1>W</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                             | Link                                                                                                                                   |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------- |
@@ -1974,7 +2068,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="write.as" src="https://img.shields.io/badge/write.as-5BC4EE.svg?style=for-the-badge&logo=write.as&logoColor=white"/>                                                    | `https://img.shields.io/badge/write.as-5BC4EE.svg?style=for-the-badge&logo=write.as&logoColor=white`                                   |
 | <img alt="WWE" src="https://img.shields.io/badge/WWE-000000.svg?style=for-the-badge&logo=WWE&logoColor=white"/>                                                                   | `https://img.shields.io/badge/WWE-000000.svg?style=for-the-badge&logo=WWE&logoColor=white`                                             |
 
-<h1>X</h1> 
+</details>
+
+<h1>X</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                            | Link                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -1995,7 +2093,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="XSplit" src="https://img.shields.io/badge/XSplit-0095DE.svg?style=for-the-badge&logo=XSplit&logoColor=white"/>                         | `https://img.shields.io/badge/XSplit-0095DE.svg?style=for-the-badge&logo=XSplit&logoColor=white`                 |
 | <img alt="XState" src="https://img.shields.io/badge/XState-2C3E50.svg?style=for-the-badge&logo=XState&logoColor=white"/>                         | `https://img.shields.io/badge/XState-2C3E50.svg?style=for-the-badge&logo=XState&logoColor=white`                 |
 
-<h1>Y</h1> 
+</details>
+
+<h1>Y</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                                                          | Link                                                                                                                                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------ |
@@ -2015,7 +2117,11 @@ Clean badges for your GitHub Profile Readme
 | <img alt="YouTube Studio" src="https://img.shields.io/badge/YouTube Studio-FF0000.svg?style=for-the-badge&logo=YouTube-Studio&logoColor=white"/>                               | `https://img.shields.io/badge/YouTube Studio-FF0000.svg?style=for-the-badge&logo=YouTube-Studio&logoColor=white`                     |
 | <img alt="YouTube TV" src="https://img.shields.io/badge/YouTube TV-FF0000.svg?style=for-the-badge&logo=YouTube-TV&logoColor=white"/>                                           | `https://img.shields.io/badge/YouTube TV-FF0000.svg?style=for-the-badge&logo=YouTube-TV&logoColor=white`                             |
 
-<h1>Z</h1> 
+</details>
+
+<h1>Z</h1>
+
+<details><summary>Click to expand!</summary> 
 
 | Badge                                                                                                                                            | Link                                                                                                             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------- |
@@ -2040,6 +2146,8 @@ Clean badges for your GitHub Profile Readme
 | <img alt="Zorin" src="https://img.shields.io/badge/Zorin-0CC1F3.svg?style=for-the-badge&logo=Zorin&logoColor=white"/>                            | `https://img.shields.io/badge/Zorin-0CC1F3.svg?style=for-the-badge&logo=Zorin&logoColor=white`                   |
 | <img alt="Zotero" src="https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white"/>                         | `https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white`                 |
 | <img alt="Zulip" src="https://img.shields.io/badge/Zulip-FFFFFF.svg?style=for-the-badge&logo=Zulip&logoColor=black"/>                            | `https://img.shields.io/badge/Zulip-FFFFFF.svg?style=for-the-badge&logo=Zulip&logoColor=black`                   |
+
+</details>
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
