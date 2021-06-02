@@ -23,7 +23,9 @@ for (const title in simpleIcons) {
     //     hex: icon.hex,
     //     icon: ratio < 1 / 3 ? "ffffff" : "000000"
     // };
-    const titleNorm = icon.title.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+    const titleNorm = icon.title
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "");
     const logo = titleNorm.split(" ").join("-");
     const name = titleNorm.split("-").join("");
     const src = `https://img.shields.io/badge/${name}-${
@@ -68,17 +70,20 @@ function generate(data) {
                 for (const key in catData) {
                     if (Object.hasOwnProperty.call(catData, key)) {
                         const element = catData[key];
-                        output +=
-                            "<h1>" +
-                            element.letter +
-                            "</h1>\n\n<details><summary>Click to expand!</summary> \n\n";
+                        output += "<h1>" + element.letter + "</h1>\n\n";
+                        // "</h1>\n\n<details><summary>Click to expand!</summary> \n\n";
                         var cols = element.names.map((el) => {
-                            return [el[1], el[2]];
+                            // return [el[1], el[2]];
+                            return el[1] + "<p>" + el[0] + "</p>";
                         });
+                        const newCols = [];
+                        while (cols.length) newCols.push(cols.splice(0, 6));
                         output +=
-                            table([["Badge", "Link"], ...cols]) +
+                            table([...newCols], {
+                                align: ["c", "c", "c", "c", "c", "c"],
+                            }) + "\n\n";
 
-                            "\n\n</details>\n\n";
+                        // + "\n\n</details>\n\n";
                         // console.log(cols);
                     }
                 }
