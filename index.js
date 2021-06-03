@@ -74,7 +74,7 @@ function generate(data) {
                         // "</h1>\n\n<details><summary>Click to expand!</summary> \n\n";
                         var cols = element.names.map((el) => {
                             // return [el[1], el[2]];
-                            return el[1] + "<p>" + el[0] + "</p>";
+                            return "<p>" + el[1] + "</p>";
                         });
                         const newCols = [];
                         while (cols.length) newCols.push(cols.splice(0, 6));
