@@ -37,7 +37,7 @@ for (const title in simpleIcons) {
 
     const iconData = [
         titleNorm,
-        `<a href="${src}"><img alt="${titleNorm}" src="${src}"/></a>`,
+        `<img src="${src}"/>`,
         link,
     ];
     data.push(iconData);
@@ -74,7 +74,7 @@ function generate(data) {
                         // "</h1>\n\n<details><summary>Click to expand!</summary> \n\n";
                         var cols = element.names.map((el) => {
                             // return [el[1], el[2]];
-                            return "<p>" + el[1] + "</p>";
+                            return "<br>" + el[1] + "<p>" + el[0] + "</p>";
                         });
                         const newCols = [];
                         while (cols.length) newCols.push(cols.splice(0, 6));
