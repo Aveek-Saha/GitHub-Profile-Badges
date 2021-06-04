@@ -44,11 +44,11 @@ OR
 |         <br>[![Alt][27]][27]<p>Adobe</p>        |  <br>[![Alt][28]][28]<p>Adobe Acrobat Reader</p> | <br>[![Alt][29]][29]<p>Adobe After Effects</p> |     <br>[![Alt][30]][30]<p>Adobe Audition</p>    |   <br>[![Alt][31]][31]<p>Adobe Creative Cloud</p>  |  <br>[![Alt][32]][32]<p>Adobe Dreamweaver</p> |
 |      <br>[![Alt][33]][33]<p>Adobe Fonts</p>     |   <br>[![Alt][34]][34]<p>Adobe Illustrator</p>   |    <br>[![Alt][35]][35]<p>Adobe InDesign</p>   |    <br>[![Alt][36]][36]<p>Adobe Lightroom</p>    | <br>[![Alt][37]][37]<p>Adobe Lightroom Classic</p> |   <br>[![Alt][38]][38]<p>Adobe PhoneGap</p>   |
 |    <br>[![Alt][39]][39]<p>Adobe Photoshop</p>   |   <br>[![Alt][40]][40]<p>Adobe Premiere Pro</p>  |       <br>[![Alt][41]][41]<p>Adobe XD</p>      |        <br>[![Alt][42]][42]<p>AdonisJS</p>       |        <br>[![Alt][43]][43]<p>Aer Lingus</p>       |      <br>[![Alt][44]][44]<p>Aeroflot</p>      |
-|      <br>[![Alt][45]][45]<p>Aeromexico</p>      |       <br>[![Alt][46]][46]<p>Aerospike</p>       |       <br>[![Alt][47]][47]<p>Affinity</p>      |   <br>[![Alt][48]][48]<p>Affinity Designer</p>   |      <br>[![Alt][49]][49]<p>Affinity Photo</p>     | <br>[![Alt][50]][50]<p>Affinity Publisher</p> |
+|      <br>[![Alt][45]][45]<p>Aeroméxico</p>      |       <br>[![Alt][46]][46]<p>Aerospike</p>       |       <br>[![Alt][47]][47]<p>Affinity</p>      |   <br>[![Alt][48]][48]<p>Affinity Designer</p>   |      <br>[![Alt][49]][49]<p>Affinity Photo</p>     | <br>[![Alt][50]][50]<p>Affinity Publisher</p> |
 |      <br>[![Alt][51]][51]<p>AI Dungeon</p>      |        <br>[![Alt][52]][52]<p>AIOHTTP</p>        |       <br>[![Alt][53]][53]<p>Aiqfome</p>       |       <br>[![Alt][54]][54]<p>Air Canada</p>      |        <br>[![Alt][55]][55]<p>Air China</p>        |     <br>[![Alt][56]][56]<p>Air France</p>     |
 |        <br>[![Alt][57]][57]<p>AirAsia</p>       |         <br>[![Alt][58]][58]<p>Airbnb</p>        |        <br>[![Alt][59]][59]<p>Airbus</p>       |        <br>[![Alt][60]][60]<p>Aircall</p>        |      <br>[![Alt][61]][61]<p>AirPlay Audio</p>      |    <br>[![Alt][62]][62]<p>AirPlay Video</p>   |
 |       <br>[![Alt][63]][63]<p>Airtable</p>       |       <br>[![Alt][64]][64]<p>Alfa Romeo</p>      |       <br>[![Alt][65]][65]<p>Algolia</p>       |     <br>[![Alt][66]][66]<p>Alibaba Cloud</p>     |       <br>[![Alt][67]][67]<p>Alibaba.com</p>       |     <br>[![Alt][68]][68]<p>AliExpress</p>     |
-|        <br>[![Alt][69]][69]<p>Alipay</p>        |        <br>[![Alt][70]][70]<p>Alitalia</p>       |    <br>[![Alt][71]][71]<p>AlliedModders</p>    |        <br>[![Alt][72]][72]<p>AlloCine</p>       |       <br>[![Alt][73]][73]<p>Alpine Linux</p>      |      <br>[![Alt][74]][74]<p>Alpine.js</p>     |
+|        <br>[![Alt][69]][69]<p>Alipay</p>        |        <br>[![Alt][70]][70]<p>Alitalia</p>       |    <br>[![Alt][71]][71]<p>AlliedModders</p>    |        <br>[![Alt][72]][72]<p>AlloCiné</p>       |       <br>[![Alt][73]][73]<p>Alpine Linux</p>      |      <br>[![Alt][74]][74]<p>Alpine.js</p>     |
 |    <br>[![Alt][75]][75]<p>Altium Designer</p>   |         <br>[![Alt][76]][76]<p>Amazon</p>        |     <br>[![Alt][77]][77]<p>Amazon Alexa</p>    |       <br>[![Alt][78]][78]<p>Amazon AWS</p>      |     <br>[![Alt][79]][79]<p>Amazon DynamoDB</p>     |   <br>[![Alt][80]][80]<p>Amazon Fire TV</p>   |
 |   <br>[![Alt][81]][81]<p>Amazon Lumberyard</p>  |       <br>[![Alt][82]][82]<p>Amazon Pay</p>      |     <br>[![Alt][83]][83]<p>Amazon Prime</p>    |       <br>[![Alt][84]][84]<p>Amazon S3</p>       |           <br>[![Alt][85]][85]<p>AMD</p>           |  <br>[![Alt][86]][86]<p>American Airlines</p> |
 |   <br>[![Alt][87]][87]<p>American Express</p>   |          <br>[![Alt][88]][88]<p>AMP</p>          |         <br>[![Alt][89]][89]<p>Amul</p>        |          <br>[![Alt][90]][90]<p>ANA</p>          |         <br>[![Alt][91]][91]<p>Anaconda</p>        |      <br>[![Alt][92]][92]<p>Analogue</p>      |
@@ -142,7 +142,7 @@ OR
 
 [44]: https://img.shields.io/badge/Aeroflot-02458D.svg?style=for-the-badge&logo=Aeroflot&logoColor=white
 
-[45]: https://img.shields.io/badge/Aeromexico-0B2343.svg?style=for-the-badge&logo=Aeromexico&logoColor=white
+[45]: https://img.shields.io/badge/Aerom%C3%A9xico-0B2343.svg?style=for-the-badge&logo=Aerom%C3%A9xico&logoColor=white
 
 [46]: https://img.shields.io/badge/Aerospike-C41E25.svg?style=for-the-badge&logo=Aerospike&logoColor=white
 
@@ -196,7 +196,7 @@ OR
 
 [71]: https://img.shields.io/badge/AlliedModders-1578D3.svg?style=for-the-badge&logo=AlliedModders&logoColor=white
 
-[72]: https://img.shields.io/badge/AlloCine-FECC00.svg?style=for-the-badge&logo=AlloCine&logoColor=black
+[72]: https://img.shields.io/badge/AlloCin%C3%A9-FECC00.svg?style=for-the-badge&logo=AlloCin%C3%A9&logoColor=black
 
 [73]: https://img.shields.io/badge/Alpine%20Linux-0D597F.svg?style=for-the-badge&logo=Alpine-Linux&logoColor=white
 
@@ -499,7 +499,7 @@ OR
 
 [215]: https://img.shields.io/badge/Big%20Cartel-222222.svg?style=for-the-badge&logo=Big-Cartel&logoColor=white
 
-[216]: https://img.shields.io/badge/bigbasket-A5CD39.svg?style=for-the-badge&logo=bigbasket&logoColor=black
+[216]: https://img.shields.io/badge/bigbasket-A5CD39.svg?style=for-the-badge&logo=bigbasket&logoColor=white
 
 [217]: https://img.shields.io/badge/BigCommerce-121118.svg?style=for-the-badge&logo=BigCommerce&logoColor=white
 
@@ -515,7 +515,7 @@ OR
 
 [223]: https://img.shields.io/badge/Bitcoin%20Cash-0AC18E.svg?style=for-the-badge&logo=Bitcoin-Cash&logoColor=white
 
-[224]: https://img.shields.io/badge/Bitcoin%20SV-EAB300.svg?style=for-the-badge&logo=Bitcoin-SV&logoColor=black
+[224]: https://img.shields.io/badge/Bitcoin%20SV-EAB300.svg?style=for-the-badge&logo=Bitcoin-SV&logoColor=white
 
 [225]: https://img.shields.io/badge/Bitdefender-ED1C24.svg?style=for-the-badge&logo=Bitdefender&logoColor=white
 
@@ -615,7 +615,7 @@ OR
 |    <br>[![Alt][294]][294]<p>Chakra UI</p>    |       <br>[![Alt][295]][295]<p>Chart.js</p>      |  <br>[![Alt][296]][296]<p>ChartMogul</p> |          <br>[![Alt][297]][297]<p>Chase</p>         |         <br>[![Alt][298]][298]<p>ChatBot</p>         |          <br>[![Alt][299]][299]<p>CheckiO</p>         |
 |    <br>[![Alt][300]][300]<p>Checkmarx</p>    |         <br>[![Alt][301]][301]<p>Chef</p>        |  <br>[![Alt][302]][302]<p>Chevrolet</p>  | <br>[![Alt][303]][303]<p>China Eastern Airlines</p> | <br>[![Alt][304]][304]<p>China Southern Airlines</p> |        <br>[![Alt][305]][305]<p>Chocolatey</p>        |
 |     <br>[![Alt][306]][306]<p>Chrysler</p>    |     <br>[![Alt][307]][307]<p>Chupa Chups</p>     |  <br>[![Alt][308]][308]<p>Cinema 4D</p>  |         <br>[![Alt][309]][309]<p>Circle</p>         |         <br>[![Alt][310]][310]<p>CircleCI</p>        |         <br>[![Alt][311]][311]<p>Cirrus CI</p>        |
-|      <br>[![Alt][312]][312]<p>Cisco</p>      |        <br>[![Alt][313]][313]<p>Citrix</p>       |   <br>[![Alt][314]][314]<p>Citroen</p>   |         <br>[![Alt][315]][315]<p>CiviCRM</p>        |          <br>[![Alt][316]][316]<p>Claris</p>         |          <br>[![Alt][317]][317]<p>ClickUp</p>         |
+|      <br>[![Alt][312]][312]<p>Cisco</p>      |        <br>[![Alt][313]][313]<p>Citrix</p>       |   <br>[![Alt][314]][314]<p>Citroën</p>   |         <br>[![Alt][315]][315]<p>CiviCRM</p>        |          <br>[![Alt][316]][316]<p>Claris</p>         |          <br>[![Alt][317]][317]<p>ClickUp</p>         |
 |      <br>[![Alt][318]][318]<p>CLion</p>      |        <br>[![Alt][319]][319]<p>Cliqz</p>        |   <br>[![Alt][320]][320]<p>Clockify</p>  |         <br>[![Alt][321]][321]<p>Clojure</p>        |         <br>[![Alt][322]][322]<p>Cloud 66</p>        |         <br>[![Alt][323]][323]<p>CloudBees</p>        |
 |   <br>[![Alt][324]][324]<p>CloudCannon</p>   |       <br>[![Alt][325]][325]<p>Cloudera</p>      |  <br>[![Alt][326]][326]<p>Cloudflare</p> |       <br>[![Alt][327]][327]<p>Cloudsmith</p>       |        <br>[![Alt][328]][328]<p>Cloudways</p>        |         <br>[![Alt][329]][329]<p>Clubhouse</p>        |
 |       <br>[![Alt][330]][330]<p>Clyp</p>      |        <br>[![Alt][331]][331]<p>CMake</p>        |     <br>[![Alt][332]][332]<p>CNN</p>     |          <br>[![Alt][333]][333]<p>Co-op</p>         |      <br>[![Alt][334]][334]<p>Cockroach Labs</p>     |         <br>[![Alt][335]][335]<p>CocoaPods</p>        |
@@ -649,7 +649,7 @@ OR
 
 [278]: https://img.shields.io/badge/Capacitor-119EFF.svg?style=for-the-badge&logo=Capacitor&logoColor=white
 
-[279]: https://img.shields.io/badge/Car%20Throttle-FF9C42.svg?style=for-the-badge&logo=Car-Throttle&logoColor=black
+[279]: https://img.shields.io/badge/Car%20Throttle-FF9C42.svg?style=for-the-badge&logo=Car-Throttle&logoColor=white
 
 [280]: https://img.shields.io/badge/Carto-EB1510.svg?style=for-the-badge&logo=Carto&logoColor=white
 
@@ -719,7 +719,7 @@ OR
 
 [313]: https://img.shields.io/badge/Citrix-452170.svg?style=for-the-badge&logo=Citrix&logoColor=white
 
-[314]: https://img.shields.io/badge/Citroen-6E6E6E.svg?style=for-the-badge&logo=Citroen&logoColor=white
+[314]: https://img.shields.io/badge/Citro%C3%ABn-6E6E6E.svg?style=for-the-badge&logo=Citro%C3%ABn&logoColor=white
 
 [315]: https://img.shields.io/badge/CiviCRM-81C459.svg?style=for-the-badge&logo=CiviCRM&logoColor=white
 
@@ -899,7 +899,7 @@ OR
 
 |     <br>[![Alt][403]][403]<p>D3.js</p>    |       <br>[![Alt][404]][404]<p>Dacia</p>      |     <br>[![Alt][405]][405]<p>DAF</p>     |  <br>[![Alt][406]][406]<p>Dailymotion</p>  |        <br>[![Alt][407]][407]<p>Daimler</p>       |  <br>[![Alt][408]][408]<p>Dark Reader</p>  |
 | :---------------------------------------: | :-------------------------------------------: | :--------------------------------------: | :----------------------------------------: | :-----------------------------------------------: | :----------------------------------------: |
-|     <br>[![Alt][409]][409]<p>Dart</p>     |     <br>[![Alt][410]][410]<p>Das Erste</p>    |     <br>[![Alt][411]][411]<p>Dash</p>    |    <br>[![Alt][412]][412]<p>Dashlane</p>   |   <br>[![Alt][413]][413]<p>Dassault Systemes</p>  |   <br>[![Alt][414]][414]<p>Databricks</p>  |
+|     <br>[![Alt][409]][409]<p>Dart</p>     |     <br>[![Alt][410]][410]<p>Das Erste</p>    |     <br>[![Alt][411]][411]<p>Dash</p>    |    <br>[![Alt][412]][412]<p>Dashlane</p>   |   <br>[![Alt][413]][413]<p>Dassault Systèmes</p>  |   <br>[![Alt][414]][414]<p>Databricks</p>  |
 |   <br>[![Alt][415]][415]<p>DataCamp</p>   |      <br>[![Alt][416]][416]<p>Datadog</p>     |   <br>[![Alt][417]][417]<p>DataStax</p>  |    <br>[![Alt][418]][418]<p>DatoCMS</p>    |         <br>[![Alt][419]][419]<p>Datto</p>        |      <br>[![Alt][420]][420]<p>DAZN</p>     |
 |     <br>[![Alt][421]][421]<p>dblp</p>     | <br>[![Alt][422]][422]<p>DC Entertainment</p> |  <br>[![Alt][423]][423]<p>De'Longhi</p>  |     <br>[![Alt][424]][424]<p>Debian</p>    |        <br>[![Alt][425]][425]<p>deepin</p>        |    <br>[![Alt][426]][426]<p>Deepnote</p>   |
 |    <br>[![Alt][427]][427]<p>Deezer</p>    |     <br>[![Alt][428]][428]<p>Delicious</p>    |  <br>[![Alt][429]][429]<p>Deliveroo</p>  |      <br>[![Alt][430]][430]<p>Dell</p>     |        <br>[![Alt][431]][431]<p>Delphi</p>        |     <br>[![Alt][432]][432]<p>Delta</p>     |
@@ -912,7 +912,7 @@ OR
 |     <br>[![Alt][469]][469]<p>Drone</p>    |      <br>[![Alt][470]][470]<p>Drooble</p>     |   <br>[![Alt][471]][471]<p>Dropbox</p>   |     <br>[![Alt][472]][472]<p>Drupal</p>    |    <br>[![Alt][473]][473]<p>DS Automobiles</p>    |     <br>[![Alt][474]][474]<p>DTube</p>     |
 |  <br>[![Alt][475]][475]<p>DuckDuckGo</p>  |      <br>[![Alt][476]][476]<p>Dunked</p>      |   <br>[![Alt][477]][477]<p>Duolingo</p>  |      <br>[![Alt][478]][478]<p>dwm</p>      |     <br>[![Alt][479]][479]<p>Dynamics 365</p>     |   <br>[![Alt][480]][480]<p>Dynatrace</p>   |
 
-[403]: https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=D3.js&logoColor=black
+[403]: https://img.shields.io/badge/D3.js-F9A03C.svg?style=for-the-badge&logo=D3.js&logoColor=white
 
 [404]: https://img.shields.io/badge/Dacia-122AFF.svg?style=for-the-badge&logo=Dacia&logoColor=white
 
@@ -932,7 +932,7 @@ OR
 
 [412]: https://img.shields.io/badge/Dashlane-0E353D.svg?style=for-the-badge&logo=Dashlane&logoColor=white
 
-[413]: https://img.shields.io/badge/Dassault%20Systemes-005386.svg?style=for-the-badge&logo=Dassault-Systemes&logoColor=white
+[413]: https://img.shields.io/badge/Dassault%20Syst%C3%A8mes-005386.svg?style=for-the-badge&logo=Dassault-Syst%C3%A8mes&logoColor=white
 
 [414]: https://img.shields.io/badge/Databricks-FF3621.svg?style=for-the-badge&logo=Databricks&logoColor=white
 
@@ -990,7 +990,7 @@ OR
 
 [441]: https://img.shields.io/badge/Devpost-003E54.svg?style=for-the-badge&logo=Devpost&logoColor=white
 
-[442]: https://img.shields.io/badge/devRant-F99A66.svg?style=for-the-badge&logo=devRant&logoColor=black
+[442]: https://img.shields.io/badge/devRant-F99A66.svg?style=for-the-badge&logo=devRant&logoColor=white
 
 [443]: https://img.shields.io/badge/Dgraph-E50695.svg?style=for-the-badge&logo=Dgraph&logoColor=white
 
@@ -1503,7 +1503,7 @@ OR
 
 [674]: https://img.shields.io/badge/Google%20Cloud-4285F4.svg?style=for-the-badge&logo=Google-Cloud&logoColor=white
 
-[675]: https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=black
+[675]: https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white
 
 [676]: https://img.shields.io/badge/Google%20Domains-4285F4.svg?style=for-the-badge&logo=Google-Domains&logoColor=white
 
@@ -1583,7 +1583,7 @@ OR
 
 [714]: https://img.shields.io/badge/Grubhub-F63440.svg?style=for-the-badge&logo=Grubhub&logoColor=white
 
-[715]: https://img.shields.io/badge/Grunt-FBA919.svg?style=for-the-badge&logo=Grunt&logoColor=black
+[715]: https://img.shields.io/badge/Grunt-FBA919.svg?style=for-the-badge&logo=Grunt&logoColor=white
 
 [716]: https://img.shields.io/badge/Guangzhou%20Metro-C51935.svg?style=for-the-badge&logo=Guangzhou-Metro&logoColor=white
 
@@ -1694,7 +1694,7 @@ OR
 
 [763]: https://img.shields.io/badge/Homebridge-491F59.svg?style=for-the-badge&logo=Homebridge&logoColor=white
 
-[764]: https://img.shields.io/badge/homify-7DCDA3.svg?style=for-the-badge&logo=homify&logoColor=black
+[764]: https://img.shields.io/badge/homify-7DCDA3.svg?style=for-the-badge&logo=homify&logoColor=white
 
 [765]: https://img.shields.io/badge/Honda-E40521.svg?style=for-the-badge&logo=Honda&logoColor=white
 
@@ -2058,7 +2058,7 @@ OR
 
 [924]: https://img.shields.io/badge/Lada-ED6B21.svg?style=for-the-badge&logo=Lada&logoColor=white
 
-[925]: https://img.shields.io/badge/Lamborghini-DDB320.svg?style=for-the-badge&logo=Lamborghini&logoColor=black
+[925]: https://img.shields.io/badge/Lamborghini-DDB320.svg?style=for-the-badge&logo=Lamborghini&logoColor=white
 
 [926]: https://img.shields.io/badge/Land%20Rover-005A2B.svg?style=for-the-badge&logo=Land-Rover&logoColor=white
 
@@ -2187,7 +2187,7 @@ OR
 | <br>[![Alt][1015]][1015]<p>Max-Planck-Gesellschaft</p> |       <br>[![Alt][1016]][1016]<p>Maytag</p>      |       <br>[![Alt][1017]][1017]<p>Mazda</p>       |            <br>[![Alt][1018]][1018]<p>McAfee</p>            |       <br>[![Alt][1019]][1019]<p>McDonald's</p>      |        <br>[![Alt][1020]][1020]<p>McLaren</p>       |
 |       <br>[![Alt][1021]][1021]<p>MDN Web Docs</p>      |     <br>[![Alt][1022]][1022]<p>MediaFire</p>     |      <br>[![Alt][1023]][1023]<p>MediaTek</p>     |          <br>[![Alt][1024]][1024]<p>MediaTemple</p>         |         <br>[![Alt][1025]][1025]<p>Medium</p>        |        <br>[![Alt][1026]][1026]<p>Meetup</p>        |
 |           <br>[![Alt][1027]][1027]<p>MEGA</p>          |      <br>[![Alt][1028]][1028]<p>Mendeley</p>     |      <br>[![Alt][1029]][1029]<p>Mercedes</p>     |           <br>[![Alt][1030]][1030]<p>Mercurial</p>          |       <br>[![Alt][1031]][1031]<p>Messenger</p>       |       <br>[![Alt][1032]][1032]<p>Metabase</p>       |
-|        <br>[![Alt][1033]][1033]<p>MetaFilter</p>       |       <br>[![Alt][1034]][1034]<p>Meteor</p>      |       <br>[![Alt][1035]][1035]<p>Metro</p>       | <br>[![Alt][1036]][1036]<p>Metro de la Ciudad de Mexico</p> |    <br>[![Alt][1037]][1037]<p>Metro de Madrid</p>    |    <br>[![Alt][1038]][1038]<p>Metro de Paris</p>    |
+|        <br>[![Alt][1033]][1033]<p>MetaFilter</p>       |       <br>[![Alt][1034]][1034]<p>Meteor</p>      |       <br>[![Alt][1035]][1035]<p>Metro</p>       | <br>[![Alt][1036]][1036]<p>Metro de la Ciudad de México</p> |    <br>[![Alt][1037]][1037]<p>Metro de Madrid</p>    |    <br>[![Alt][1038]][1038]<p>Métro de Paris</p>    |
 |           <br>[![Alt][1039]][1039]<p>MeWe</p>          |     <br>[![Alt][1040]][1040]<p>micro:bit</p>     |     <br>[![Alt][1041]][1041]<p>Micro.blog</p>    |         <br>[![Alt][1042]][1042]<p>Microgenetics</p>        |       <br>[![Alt][1043]][1043]<p>Microsoft</p>       |  <br>[![Alt][1044]][1044]<p>Microsoft Academic</p>  |
 |     <br>[![Alt][1045]][1045]<p>Microsoft Access</p>    |  <br>[![Alt][1046]][1046]<p>Microsoft Azure</p>  |   <br>[![Alt][1047]][1047]<p>Microsoft Edge</p>  |        <br>[![Alt][1048]][1048]<p>Microsoft Excel</p>       |   <br>[![Alt][1049]][1049]<p>Microsoft Exchange</p>  |   <br>[![Alt][1050]][1050]<p>Microsoft Office</p>   |
 |    <br>[![Alt][1051]][1051]<p>Microsoft OneDrive</p>   | <br>[![Alt][1052]][1052]<p>Microsoft OneNote</p> | <br>[![Alt][1053]][1053]<p>Microsoft Outlook</p> |     <br>[![Alt][1054]][1054]<p>Microsoft PowerPoint</p>     |  <br>[![Alt][1055]][1055]<p>Microsoft SharePoint</p> | <br>[![Alt][1056]][1056]<p>Microsoft SQL Server</p> |
@@ -2301,11 +2301,11 @@ OR
 
 [1035]: https://img.shields.io/badge/Metro-EF4242.svg?style=for-the-badge&logo=Metro&logoColor=white
 
-[1036]: https://img.shields.io/badge/Metro%20de%20la%20Ciudad%20de%20Mexico-F77E1C.svg?style=for-the-badge&logo=Metro-de-la-Ciudad-de-Mexico&logoColor=white
+[1036]: https://img.shields.io/badge/Metro%20de%20la%20Ciudad%20de%20M%C3%A9xico-F77E1C.svg?style=for-the-badge&logo=Metro-de-la-Ciudad-de-M%C3%A9xico&logoColor=white
 
 [1037]: https://img.shields.io/badge/Metro%20de%20Madrid-255E9C.svg?style=for-the-badge&logo=Metro-de-Madrid&logoColor=white
 
-[1038]: https://img.shields.io/badge/Metro%20de%20Paris-003E95.svg?style=for-the-badge&logo=Metro-de-Paris&logoColor=white
+[1038]: https://img.shields.io/badge/M%C3%A9tro%20de%20Paris-003E95.svg?style=for-the-badge&logo=M%C3%A9tro-de-Paris&logoColor=white
 
 [1039]: https://img.shields.io/badge/MeWe-17377F.svg?style=for-the-badge&logo=MeWe&logoColor=white
 
@@ -2371,7 +2371,7 @@ OR
 
 [1070]: https://img.shields.io/badge/Mixcloud-5000FF.svg?style=for-the-badge&logo=Mixcloud&logoColor=white
 
-[1071]: https://img.shields.io/badge/MobX-FF9955.svg?style=for-the-badge&logo=MobX&logoColor=black
+[1071]: https://img.shields.io/badge/MobX-FF9955.svg?style=for-the-badge&logo=MobX&logoColor=white
 
 [1072]: https://img.shields.io/badge/MobXStateTree-FF7102.svg?style=for-the-badge&logo=MobX-State-Tree&logoColor=white
 
@@ -2646,7 +2646,7 @@ OR
 
 [1196]: https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white
 
-[1197]: https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=black
+[1197]: https://img.shields.io/badge/ORCID-A6CE39.svg?style=for-the-badge&logo=ORCID&logoColor=white
 
 [1198]: https://img.shields.io/badge/Org-77AA99.svg?style=for-the-badge&logo=Org&logoColor=white
 
@@ -2686,7 +2686,7 @@ OR
 |    <br>[![Alt][1270]][1270]<p>PlayStation 3</p>   | <br>[![Alt][1271]][1271]<p>PlayStation 4</p> |   <br>[![Alt][1272]][1272]<p>PlayStation 5</p>  |  <br>[![Alt][1273]][1273]<p>PlayStation Vita</p>  |      <br>[![Alt][1274]][1274]<p>Pleroma</p>     |          <br>[![Alt][1275]][1275]<p>Plesk</p>          |
 |        <br>[![Alt][1276]][1276]<p>Plex</p>        |     <br>[![Alt][1277]][1277]<p>Plotly</p>    |    <br>[![Alt][1278]][1278]<p>Pluralsight</p>   |        <br>[![Alt][1279]][1279]<p>Plurk</p>       |    <br>[![Alt][1280]][1280]<p>Plus Codes</p>    |           <br>[![Alt][1281]][1281]<p>PM2</p>           |
 |        <br>[![Alt][1282]][1282]<p>pnpm</p>        |     <br>[![Alt][1283]][1283]<p>Pocket</p>    |   <br>[![Alt][1284]][1284]<p>Pocket Casts</p>   |   <br>[![Alt][1285]][1285]<p>Podcast Addict</p>   |      <br>[![Alt][1286]][1286]<p>Podman</p>      |          <br>[![Alt][1287]][1287]<p>Pointy</p>         |
-|       <br>[![Alt][1288]][1288]<p>Pokemon</p>      |      <br>[![Alt][1289]][1289]<p>Poly</p>     |  <br>[![Alt][1290]][1290]<p>Polymer Project</p> |       <br>[![Alt][1291]][1291]<p>Pop!_OS</p>      |      <br>[![Alt][1292]][1292]<p>Porsche</p>     |         <br>[![Alt][1293]][1293]<p>PostCSS</p>         |
+|       <br>[![Alt][1288]][1288]<p>Pokémon</p>      |      <br>[![Alt][1289]][1289]<p>Poly</p>     |  <br>[![Alt][1290]][1290]<p>Polymer Project</p> |       <br>[![Alt][1291]][1291]<p>Pop!_OS</p>      |      <br>[![Alt][1292]][1292]<p>Porsche</p>     |         <br>[![Alt][1293]][1293]<p>PostCSS</p>         |
 |     <br>[![Alt][1294]][1294]<p>PostgreSQL</p>     |    <br>[![Alt][1295]][1295]<p>Postman</p>    |     <br>[![Alt][1296]][1296]<p>Postmates</p>    |      <br>[![Alt][1297]][1297]<p>Power BI</p>      |      <br>[![Alt][1298]][1298]<p>POWERS</p>      |        <br>[![Alt][1299]][1299]<p>PowerShell</p>       |
 |        <br>[![Alt][1300]][1300]<p>pr.co</p>       |   <br>[![Alt][1301]][1301]<p>pre-commit</p>  |  <br>[![Alt][1302]][1302]<p>Premier League</p>  |     <br>[![Alt][1303]][1303]<p>PrestaShop</p>     |      <br>[![Alt][1304]][1304]<p>Presto</p>      |         <br>[![Alt][1305]][1305]<p>Prettier</p>        |
 |        <br>[![Alt][1306]][1306]<p>Prezi</p>       |     <br>[![Alt][1307]][1307]<p>Prime</p>     |    <br>[![Alt][1308]][1308]<p>Prime Video</p>   |       <br>[![Alt][1309]][1309]<p>Prisma</p>       |      <br>[![Alt][1310]][1310]<p>Prismic</p>     | <br>[![Alt][1311]][1311]<p>Private Internet Access</p> |
@@ -2852,7 +2852,7 @@ OR
 
 [1287]: https://img.shields.io/badge/Pointy-009DE0.svg?style=for-the-badge&logo=Pointy&logoColor=white
 
-[1288]: https://img.shields.io/badge/Pokemon-FFCB05.svg?style=for-the-badge&logo=Pokemon&logoColor=black
+[1288]: https://img.shields.io/badge/Pok%C3%A9mon-FFCB05.svg?style=for-the-badge&logo=Pok%C3%A9mon&logoColor=black
 
 [1289]: https://img.shields.io/badge/Poly-EB3C00.svg?style=for-the-badge&logo=Poly&logoColor=white
 
@@ -3025,7 +3025,7 @@ OR
 |   <br>[![Alt][1408]][1408]<p>Rhinoceros</p>  |        <br>[![Alt][1409]][1409]<p>Rider</p>       |             <br>[![Alt][1410]][1410]<p>Ring</p>            |       <br>[![Alt][1411]][1411]<p>Riot Games</p>      |   <br>[![Alt][1412]][1412]<p>Ripple</p>  |      <br>[![Alt][1413]][1413]<p>Riseup</p>     |
 | <br>[![Alt][1414]][1414]<p>Roam Research</p> |       <br>[![Alt][1415]][1415]<p>Roblox</p>       |       <br>[![Alt][1416]][1416]<p>Robot Framework</p>       |      <br>[![Alt][1417]][1417]<p>Rocket.Chat</p>      |    <br>[![Alt][1418]][1418]<p>Roku</p>   |   <br>[![Alt][1419]][1419]<p>Rolls-Royce</p>   |
 |   <br>[![Alt][1420]][1420]<p>rollup.js</p>   |        <br>[![Alt][1421]][1421]<p>Roots</p>       |        <br>[![Alt][1422]][1422]<p>Roots Bedrock</p>        |       <br>[![Alt][1423]][1423]<p>Roots Sage</p>      |    <br>[![Alt][1424]][1424]<p>ROS</p>    | <br>[![Alt][1425]][1425]<p>Rotten Tomatoes</p> |
-|   <br>[![Alt][1426]][1426]<p>Roundcube</p>   |         <br>[![Alt][1427]][1427]<p>RSS</p>        |           <br>[![Alt][1428]][1428]<p>RStudio</p>           |          <br>[![Alt][1429]][1429]<p>RTE</p>          |    <br>[![Alt][1430]][1430]<p>RTL</p>    |     <br>[![Alt][1431]][1431]<p>RTLZWEI</p>     |
+|   <br>[![Alt][1426]][1426]<p>Roundcube</p>   |         <br>[![Alt][1427]][1427]<p>RSS</p>        |           <br>[![Alt][1428]][1428]<p>RStudio</p>           |          <br>[![Alt][1429]][1429]<p>RTÉ</p>          |    <br>[![Alt][1430]][1430]<p>RTL</p>    |     <br>[![Alt][1431]][1431]<p>RTLZWEI</p>     |
 |      <br>[![Alt][1432]][1432]<p>Ruby</p>     |    <br>[![Alt][1433]][1433]<p>Ruby on Rails</p>   |           <br>[![Alt][1434]][1434]<p>RubyGems</p>          |       <br>[![Alt][1435]][1435]<p>Runkeeper</p>       |   <br>[![Alt][1436]][1436]<p>RunKit</p>  |       <br>[![Alt][1437]][1437]<p>Rust</p>      |
 |    <br>[![Alt][1438]][1438]<p>Ryanair</p>    |                                                   |                                                            |                                                      |                                          |                                                |
 
@@ -3155,7 +3155,7 @@ OR
 
 [1428]: https://img.shields.io/badge/RStudio-75AADB.svg?style=for-the-badge&logo=RStudio&logoColor=white
 
-[1429]: https://img.shields.io/badge/RTE-00A7B3.svg?style=for-the-badge&logo=RTE&logoColor=white
+[1429]: https://img.shields.io/badge/RT%C3%89-00A7B3.svg?style=for-the-badge&logo=RT%C3%89&logoColor=white
 
 [1430]: https://img.shields.io/badge/RTL-E9113B.svg?style=for-the-badge&logo=RTL&logoColor=white
 
@@ -3179,7 +3179,7 @@ OR
 
 |              <br>[![Alt][1440]][1440]<p>Safari</p>             |     <br>[![Alt][1441]][1441]<p>Sahibinden</p>     |   <br>[![Alt][1442]][1442]<p>Salesforce</p>   |     <br>[![Alt][1443]][1443]<p>SaltStack</p>    |      <br>[![Alt][1444]][1444]<p>Samsung</p>      |     <br>[![Alt][1445]][1445]<p>Samsung Pay</p>    |
 | :------------------------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------: | :---------------------------------------------: | :----------------------------------------------: | :-----------------------------------------------: |
-| <br>[![Alt][1446]][1446]<p>San Francisco Municipal Railway</p> |   <br>[![Alt][1447]][1447]<p>Sao Paulo Metro</p>  |       <br>[![Alt][1448]][1448]<p>SAP</p>      |       <br>[![Alt][1449]][1449]<p>Sass</p>       |       <br>[![Alt][1450]][1450]<p>Sat.1</p>       |     <br>[![Alt][1451]][1451]<p>Sauce Labs</p>     |
+| <br>[![Alt][1446]][1446]<p>San Francisco Municipal Railway</p> |   <br>[![Alt][1447]][1447]<p>São Paulo Metro</p>  |       <br>[![Alt][1448]][1448]<p>SAP</p>      |       <br>[![Alt][1449]][1449]<p>Sass</p>       |       <br>[![Alt][1450]][1450]<p>Sat.1</p>       |     <br>[![Alt][1451]][1451]<p>Sauce Labs</p>     |
 |              <br>[![Alt][1452]][1452]<p>Scala</p>              |      <br>[![Alt][1453]][1453]<p>Scaleway</p>      |     <br>[![Alt][1454]][1454]<p>Scania</p>     |   <br>[![Alt][1455]][1455]<p>scikit-learn</p>   |       <br>[![Alt][1456]][1456]<p>SciPy</p>       |       <br>[![Alt][1457]][1457]<p>Scopus</p>       |
 |             <br>[![Alt][1458]][1458]<p>Scratch</p>             |    <br>[![Alt][1459]][1459]<p>Screencastify</p>   |     <br>[![Alt][1460]][1460]<p>Scribd</p>     |      <br>[![Alt][1461]][1461]<p>Scrimba</p>     |    <br>[![Alt][1462]][1462]<p>ScrollReveal</p>   |   <br>[![Alt][1463]][1463]<p>Scrum Alliance</p>   |
 |          <br>[![Alt][1464]][1464]<p>Scrutinizer CI</p>         |       <br>[![Alt][1465]][1465]<p>Seagate</p>      |      <br>[![Alt][1466]][1466]<p>SEAT</p>      |      <br>[![Alt][1467]][1467]<p>Sefaria</p>     |        <br>[![Alt][1468]][1468]<p>Sega</p>       |      <br>[![Alt][1469]][1469]<p>Selenium</p>      |
@@ -3189,7 +3189,7 @@ OR
 |              <br>[![Alt][1488]][1488]<p>Shelly</p>             |   <br>[![Alt][1489]][1489]<p>Shenzhen Metro</p>   |   <br>[![Alt][1490]][1490]<p>Shields.io</p>   |     <br>[![Alt][1491]][1491]<p>Shikimori</p>    |      <br>[![Alt][1492]][1492]<p>Shopify</p>      |      <br>[![Alt][1493]][1493]<p>Shopware</p>      |
 |             <br>[![Alt][1494]][1494]<p>Shotcut</p>             |       <br>[![Alt][1495]][1495]<p>Showpad</p>      |    <br>[![Alt][1496]][1496]<p>Showtime</p>    |   <br>[![Alt][1497]][1497]<p>Shutterstock</p>   |      <br>[![Alt][1498]][1498]<p>Siemens</p>      |       <br>[![Alt][1499]][1499]<p>Signal</p>       |
 |         <br>[![Alt][1500]][1500]<p>Simple Analytics</p>        |    <br>[![Alt][1501]][1501]<p>Simple Icons</p>    |   <br>[![Alt][1502]][1502]<p>Sina Weibo</p>   |    <br>[![Alt][1503]][1503]<p>SingleStore</p>   |     <br>[![Alt][1504]][1504]<p>SitePoint</p>     |       <br>[![Alt][1505]][1505]<p>Sketch</p>       |
-|            <br>[![Alt][1506]][1506]<p>Sketchfab</p>            |      <br>[![Alt][1507]][1507]<p>SketchUp</p>      |   <br>[![Alt][1508]][1508]<p>Skillshare</p>   |       <br>[![Alt][1509]][1509]<p>SKODA</p>      |        <br>[![Alt][1510]][1510]<p>Sky</p>        |      <br>[![Alt][1511]][1511]<p>Skyliner</p>      |
+|            <br>[![Alt][1506]][1506]<p>Sketchfab</p>            |      <br>[![Alt][1507]][1507]<p>SketchUp</p>      |   <br>[![Alt][1508]][1508]<p>Skillshare</p>   |       <br>[![Alt][1509]][1509]<p>ŠKODA</p>      |        <br>[![Alt][1510]][1510]<p>Sky</p>        |      <br>[![Alt][1511]][1511]<p>Skyliner</p>      |
 |              <br>[![Alt][1512]][1512]<p>Skype</p>              | <br>[![Alt][1513]][1513]<p>Skype for Business</p> |      <br>[![Alt][1514]][1514]<p>Slack</p>     |     <br>[![Alt][1515]][1515]<p>Slackware</p>    |      <br>[![Alt][1516]][1516]<p>Slashdot</p>     |      <br>[![Alt][1517]][1517]<p>SlickPic</p>      |
 |              <br>[![Alt][1518]][1518]<p>Slides</p>             |     <br>[![Alt][1519]][1519]<p>SlideShare</p>     |      <br>[![Alt][1520]][1520]<p>smart</p>     |    <br>[![Alt][1521]][1521]<p>SmartThings</p>   | <br>[![Alt][1522]][1522]<p>Smashing Magazine</p> |        <br>[![Alt][1523]][1523]<p>SMRT</p>        |
 |             <br>[![Alt][1524]][1524]<p>SmugMug</p>             |      <br>[![Alt][1525]][1525]<p>Snapchat</p>      |    <br>[![Alt][1526]][1526]<p>Snapcraft</p>   |     <br>[![Alt][1527]][1527]<p>Snowflake</p>    |        <br>[![Alt][1528]][1528]<p>Snyk</p>       |      <br>[![Alt][1529]][1529]<p>Society6</p>      |
@@ -3226,7 +3226,7 @@ OR
 
 [1446]: https://img.shields.io/badge/San%20Francisco%20Municipal%20Railway-BA0C2F.svg?style=for-the-badge&logo=San-Francisco-Municipal-Railway&logoColor=white
 
-[1447]: https://img.shields.io/badge/Sao%20Paulo%20Metro-004382.svg?style=for-the-badge&logo=Sao-Paulo-Metro&logoColor=white
+[1447]: https://img.shields.io/badge/S%C3%A3o%20Paulo%20Metro-004382.svg?style=for-the-badge&logo=S%C3%A3o-Paulo-Metro&logoColor=white
 
 [1448]: https://img.shields.io/badge/SAP-0FAAFF.svg?style=for-the-badge&logo=SAP&logoColor=white
 
@@ -3350,7 +3350,7 @@ OR
 
 [1508]: https://img.shields.io/badge/Skillshare-00FF84.svg?style=for-the-badge&logo=Skillshare&logoColor=white
 
-[1509]: https://img.shields.io/badge/SKODA-4BA82E.svg?style=for-the-badge&logo=SKODA&logoColor=white
+[1509]: https://img.shields.io/badge/%C5%A0KODA-4BA82E.svg?style=for-the-badge&logo=%C5%A0KODA&logoColor=white
 
 [1510]: https://img.shields.io/badge/Sky-0072C9.svg?style=for-the-badge&logo=Sky&logoColor=white
 
@@ -3625,7 +3625,7 @@ OR
 
 [1636]: https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white
 
-[1637]: https://img.shields.io/badge/tado%C2%B0-FFA900.svg?style=for-the-badge&logo=tado%C2%B0&logoColor=black
+[1637]: https://img.shields.io/badge/tado%C2%B0-FFA900.svg?style=for-the-badge&logo=tado%C2%B0&logoColor=white
 
 [1638]: https://img.shields.io/badge/Tails-56347C.svg?style=for-the-badge&logo=Tails&logoColor=white
 

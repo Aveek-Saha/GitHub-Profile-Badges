@@ -24,15 +24,15 @@ for (const title in simpleIcons) {
     //     hex: icon.hex,
     //     icon: ratio < 1 / 3 ? "ffffff" : "000000"
     // };
-    const titleNorm = icon.title
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "");
+    const titleNorm = icon.title;
+    // .normalize("NFD")
+    // .replace(/[\u0300-\u036f]/g, "");
     const logo = titleNorm.split(" ").join("-");
     const name = titleNorm.split("-").join("");
     const src = `https://img.shields.io/badge/${name}-${
         icon.hex
     }.svg?style=for-the-badge&logo=${logo}&logoColor=${
-        lumBg < 0.69 ? "white" : "black"
+        lumBg <= 0.69 ? "white" : "black"
     }`;
     const link = `\`${src}\``;
     count += 1;
@@ -49,7 +49,11 @@ for (const title in simpleIcons) {
 
 const groupNames = (arr) => {
     const map = arr.reduce((acc, val) => {
-        let char = val[0].charAt(0).toUpperCase();
+        let char = val[0]
+            .normalize("NFD")
+            .replace(/[\u0300-\u036f]/g, "")
+            .charAt(0)
+            .toUpperCase();
         let alpha = /^[a-zA-Z]+$/;
         if (!char.match(alpha)) char = "#";
         if (!acc[char]) acc[char] = [];
