@@ -1,9 +1,24 @@
 # GitHub Profile Badges
-Clean badges for your GitHub Profile Readme
+Clean and consistent badges for your Github profile. All badges are readable with good contrast. More than 1.9k badges with icons to choose from.
+
+# Usage
+Just right click and copy link address, then use it in your markdown
+
+```md
+![Alt text](<copied link>)
+```
+
+OR
+
+```md
+<img alt="Alt text" src="<copied link>"/>
+```
+
+# Badges 
 
 <!-- Please do not modify this auto generated content -->
 <!-- AUTO-GENERATED-CONTENT:START (BADGES) -->
-<h1>#</h1>
+<h2>#</h2>
 
 | <br>[![Alt][2]][2]<p>.NET</p> | <br>[![Alt][3]][3]<p>1001Tracklists</p> | <br>[![Alt][4]][4]<p>1Password</p> | <br>[![Alt][5]][5]<p>3M</p> | <br>[![Alt][6]][6]<p>4D</p> | <br>[![Alt][7]][7]<p>500px</p> |
 | :---------------------------: | :-------------------------------------: | :--------------------------------: | :-------------------------: | :-------------------------: | :----------------------------: |
@@ -20,7 +35,7 @@ Clean badges for your GitHub Profile Readme
 
 [7]: https://img.shields.io/badge/500px-0099E5.svg?style=for-the-badge&logo=500px&logoColor=white
 
-<h1>A</h1>
+<h2>A</h2>
 
 |     <br>[![Alt][9]][9]<p>ABB RobotStudio</p>    |         <br>[![Alt][10]][10]<p>Abbvie</p>        |     <br>[![Alt][11]][11]<p>Ableton Live</p>    |        <br>[![Alt][12]][12]<p>About.me</p>       |         <br>[![Alt][13]][13]<p>Abstract</p>        |      <br>[![Alt][14]][14]<p>Academia</p>      |
 | :---------------------------------------------: | :----------------------------------------------: | :--------------------------------------------: | :----------------------------------------------: | :------------------------------------------------: | :-------------------------------------------: |
@@ -417,7 +432,7 @@ Clean badges for your GitHub Profile Readme
 
 [189]: https://img.shields.io/badge/Azure%20Pipelines-2560E0.svg?style=for-the-badge&logo=Azure-Pipelines&logoColor=white
 
-<h1>B</h1>
+<h2>B</h2>
 
 |     <br>[![Alt][191]][191]<p>Babel</p>    |      <br>[![Alt][192]][192]<p>Badgr</p>     |     <br>[![Alt][193]][193]<p>Badoo</p>    |      <br>[![Alt][194]][194]<p>Baidu</p>      |     <br>[![Alt][195]][195]<p>Bamboo</p>     |  <br>[![Alt][196]][196]<p>Bancontact</p> |
 | :---------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :-----------------------------------------: | :--------------------------------------: |
@@ -590,7 +605,7 @@ Clean badges for your GitHub Profile Readme
 
 [268]: https://img.shields.io/badge/byte-551DEF.svg?style=for-the-badge&logo=byte&logoColor=white
 
-<h1>C</h1>
+<h2>C</h2>
 
 |     <br>[![Alt][270]][270]<p>C Sharp</p>     |         <br>[![Alt][271]][271]<p>C++</p>         |    <br>[![Alt][272]][272]<p>Cachet</p>   |       <br>[![Alt][273]][273]<p>Cairo Metro</p>      |         <br>[![Alt][274]][274]<p>CakePHP</p>         |     <br>[![Alt][275]][275]<p>Campaign Monitor</p>     |
 | :------------------------------------------: | :----------------------------------------------: | :--------------------------------------: | :-------------------------------------------------: | :--------------------------------------------------: | :---------------------------------------------------: |
@@ -880,7 +895,7 @@ Clean badges for your GitHub Profile Readme
 
 [401]: https://img.shields.io/badge/Cypress-17202C.svg?style=for-the-badge&logo=Cypress&logoColor=white
 
-<h1>D</h1>
+<h2>D</h2>
 
 |     <br>[![Alt][403]][403]<p>D3.js</p>    |       <br>[![Alt][404]][404]<p>Dacia</p>      |     <br>[![Alt][405]][405]<p>DAF</p>     |  <br>[![Alt][406]][406]<p>Dailymotion</p>  |        <br>[![Alt][407]][407]<p>Daimler</p>       |  <br>[![Alt][408]][408]<p>Dark Reader</p>  |
 | :---------------------------------------: | :-------------------------------------------: | :--------------------------------------: | :----------------------------------------: | :-----------------------------------------------: | :----------------------------------------: |
@@ -1053,7 +1068,7 @@ Clean badges for your GitHub Profile Readme
 
 [480]: https://img.shields.io/badge/Dynatrace-1496FF.svg?style=for-the-badge&logo=Dynatrace&logoColor=white
 
-<h1>E</h1>
+<h2>E</h2>
 
 |      <br>[![Alt][482]][482]<p>Eagle</p>     |       <br>[![Alt][483]][483]<p>easyJet</p>      |      <br>[![Alt][484]][484]<p>eBay</p>      |  <br>[![Alt][485]][485]<p>Eclipse Che</p>  |    <br>[![Alt][486]][486]<p>Eclipse IDE</p>   | <br>[![Alt][487]][487]<p>Eclipse Mosquitto</p> |
 | :-----------------------------------------: | :---------------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :--------------------------------------------: |
@@ -1179,7 +1194,7 @@ Clean badges for your GitHub Profile Readme
 
 [537]: https://img.shields.io/badge/EyeEm-000000.svg?style=for-the-badge&logo=EyeEm&logoColor=white
 
-<h1>F</h1>
+<h2>F</h2>
 
 |     <br>[![Alt][539]][539]<p>F-Secure</p>    |         <br>[![Alt][540]][540]<p>Facebook</p>        | <br>[![Alt][541]][541]<p>Facebook Gaming</p> | <br>[![Alt][542]][542]<p>Facebook Live</p> |      <br>[![Alt][543]][543]<p>FACEIT</p>     |   <br>[![Alt][544]][544]<p>Facepunch</p>  |
 | :------------------------------------------: | :--------------------------------------------------: | :------------------------------------------: | :----------------------------------------: | :------------------------------------------: | :---------------------------------------: |
@@ -1352,7 +1367,7 @@ Clean badges for your GitHub Profile Readme
 
 [616]: https://img.shields.io/badge/FutureLearn-DE00A5.svg?style=for-the-badge&logo=FutureLearn&logoColor=white
 
-<h1>G</h1>
+<h2>G</h2>
 
 |       <br>[![Alt][618]][618]<p>Game Jolt</p>       |       <br>[![Alt][619]][619]<p>Garmin</p>      |       <br>[![Alt][620]][620]<p>Gatling</p>      |       <br>[![Alt][621]][621]<p>Gatsby</p>       |      <br>[![Alt][622]][622]<p>Gauges</p>      |  <br>[![Alt][623]][623]<p>GeeksforGeeks</p> |
 | :------------------------------------------------: | :--------------------------------------------: | :---------------------------------------------: | :---------------------------------------------: | :-------------------------------------------: | :-----------------------------------------: |
@@ -1580,7 +1595,7 @@ Clean badges for your GitHub Profile Readme
 
 [720]: https://img.shields.io/badge/Gutenberg-000000.svg?style=for-the-badge&logo=Gutenberg&logoColor=white
 
-<h1>H</h1>
+<h2>H</h2>
 
 | <br>[![Alt][722]][722]<p>Hack Club</p> |  <br>[![Alt][723]][723]<p>Hack The Box</p>  |            <br>[![Alt][724]][724]<p>Hackaday</p>            |   <br>[![Alt][725]][725]<p>HackerEarth</p>   |    <br>[![Alt][726]][726]<p>HackerOne</p>   |   <br>[![Alt][727]][727]<p>HackerRank</p>  |
 | :------------------------------------: | :-----------------------------------------: | :---------------------------------------------------------: | :------------------------------------------: | :-----------------------------------------: | :----------------------------------------: |
@@ -1725,7 +1740,7 @@ Clean badges for your GitHub Profile Readme
 
 [786]: https://img.shields.io/badge/Hyundai-002C5F.svg?style=for-the-badge&logo=Hyundai&logoColor=white
 
-<h1>I</h1>
+<h2>I</h2>
 
 |    <br>[![Alt][788]][788]<p>iBeacon</p>    |     <br>[![Alt][789]][789]<p>IBM</p>     |    <br>[![Alt][790]][790]<p>IBM Watson</p>    |       <br>[![Alt][791]][791]<p>Icinga</p>      |    <br>[![Alt][792]][792]<p>iCloud</p>   |    <br>[![Alt][793]][793]<p>IcoMoon</p>    |
 | :----------------------------------------: | :--------------------------------------: | :-------------------------------------------: | :--------------------------------------------: | :--------------------------------------: | :----------------------------------------: |
@@ -1840,7 +1855,7 @@ Clean badges for your GitHub Profile Readme
 
 [838]: https://img.shields.io/badge/IVECO-004994.svg?style=for-the-badge&logo=IVECO&logoColor=white
 
-<h1>J</h1>
+<h2>J</h2>
 
 |     <br>[![Alt][840]][840]<p>Jaguar</p>    |     <br>[![Alt][841]][841]<p>Jamboard</p>    | <br>[![Alt][842]][842]<p>Jameson</p> |    <br>[![Alt][843]][843]<p>Jamstack</p>   |      <br>[![Alt][844]][844]<p>Jasmine</p>     |    <br>[![Alt][845]][845]<p>Java</p>    |
 | :----------------------------------------: | :------------------------------------------: | :----------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-------------------------------------: |
@@ -1927,7 +1942,7 @@ Clean badges for your GitHub Profile Readme
 
 [877]: https://img.shields.io/badge/JustGiving-AD29B6.svg?style=for-the-badge&logo=JustGiving&logoColor=white
 
-<h1>K</h1>
+<h2>K</h2>
 
 |    <br>[![Alt][879]][879]<p>Kahoot!</p>    |     <br>[![Alt][880]][880]<p>KaiOS</p>     |   <br>[![Alt][881]][881]<p>Kakao</p>   | <br>[![Alt][882]][882]<p>KakaoTalk</p> |  <br>[![Alt][883]][883]<p>Kali Linux</p> | <br>[![Alt][884]][884]<p>Karlsruher Verkehrsverbund</p> |
 | :----------------------------------------: | :----------------------------------------: | :------------------------------------: | :------------------------------------: | :--------------------------------------: | :-----------------------------------------------------: |
@@ -2027,7 +2042,7 @@ Clean badges for your GitHub Profile Readme
 
 [922]: https://img.shields.io/badge/Kyocera-DF0522.svg?style=for-the-badge&logo=Kyocera&logoColor=white
 
-<h1>L</h1>
+<h2>L</h2>
 
 |       <br>[![Alt][924]][924]<p>Lada</p>       |    <br>[![Alt][925]][925]<p>Lamborghini</p>   | <br>[![Alt][926]][926]<p>Land Rover</p> |  <br>[![Alt][927]][927]<p>Laragon</p>  |    <br>[![Alt][928]][928]<p>Laravel</p>   | <br>[![Alt][929]][929]<p>Laravel Horizon</p> |
 | :-------------------------------------------: | :-------------------------------------------: | :-------------------------------------: | :------------------------------------: | :---------------------------------------: | :------------------------------------------: |
@@ -2161,7 +2176,7 @@ Clean badges for your GitHub Profile Readme
 
 [983]: https://img.shields.io/badge/Lyft-FF00BF.svg?style=for-the-badge&logo=Lyft&logoColor=white
 
-<h1>M</h1>
+<h2>M</h2>
 
 |           <br>[![Alt][985]][985]<p>macOS</p>           |        <br>[![Alt][986]][986]<p>Macy’s</p>       |       <br>[![Alt][987]][987]<p>Magento</p>       |             <br>[![Alt][988]][988]<p>Magisk</p>             |         <br>[![Alt][989]][989]<p>Mail.Ru</p>         |        <br>[![Alt][990]][990]<p>MailChimp</p>       |
 | :----------------------------------------------------: | :----------------------------------------------: | :----------------------------------------------: | :---------------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: |
@@ -2410,7 +2425,7 @@ Clean badges for your GitHub Profile Readme
 
 [1097]: https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white
 
-<h1>N</h1>
+<h2>N</h2>
 
 |      <br>[![Alt][1099]][1099]<p>Namebase</p>     |     <br>[![Alt][1100]][1100]<p>Namecheap</p>    |       <br>[![Alt][1101]][1101]<p>Nano</p>      |    <br>[![Alt][1102]][1102]<p>NASA</p>   | <br>[![Alt][1103]][1103]<p>National Grid</p> |       <br>[![Alt][1104]][1104]<p>NativeScript</p>      |
 | :----------------------------------------------: | :---------------------------------------------: | :--------------------------------------------: | :--------------------------------------: | :------------------------------------------: | :----------------------------------------------------: |
@@ -2536,7 +2551,7 @@ Clean badges for your GitHub Profile Readme
 
 [1154]: https://img.shields.io/badge/Nx-143055.svg?style=for-the-badge&logo=Nx&logoColor=white
 
-<h1>O</h1>
+<h2>O</h2>
 
 |         <br>[![Alt][1156]][1156]<p>Observable</p>         |    <br>[![Alt][1157]][1157]<p>OCaml</p>    |         <br>[![Alt][1158]][1158]<p>Octave</p>         | <br>[![Alt][1159]][1159]<p>Octopus Deploy</p> |      <br>[![Alt][1160]][1160]<p>Oculus</p>     |    <br>[![Alt][1161]][1161]<p>Odnoklassniki</p>   |
 | :-------------------------------------------------------: | :----------------------------------------: | :---------------------------------------------------: | :-------------------------------------------: | :--------------------------------------------: | :-----------------------------------------------: |
@@ -2655,7 +2670,7 @@ Clean badges for your GitHub Profile Readme
 
 [1208]: https://img.shields.io/badge/OYO-EE2E24.svg?style=for-the-badge&logo=OYO&logoColor=white
 
-<h1>P</h1>
+<h2>P</h2>
 
 |      <br>[![Alt][1210]][1210]<p>Packagist</p>     |    <br>[![Alt][1211]][1211]<p>Pagekit</p>    |     <br>[![Alt][1212]][1212]<p>PagerDuty</p>    | <br>[![Alt][1213]][1213]<p>PageSpeed Insights</p> |     <br>[![Alt][1214]][1214]<p>PagSeguro</p>    |         <br>[![Alt][1215]][1215]<p>Palantir</p>        |
 | :-----------------------------------------------: | :------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: | :---------------------------------------------: | :----------------------------------------------------: |
@@ -2943,7 +2958,7 @@ Clean badges for your GitHub Profile Readme
 
 [1340]: https://img.shields.io/badge/PyUp-9F55FF.svg?style=for-the-badge&logo=PyUp&logoColor=white
 
-<h1>Q</h1>
+<h2>Q</h2>
 
 | <br>[![Alt][1342]][1342]<p>Qatar Airways</p> |   <br>[![Alt][1343]][1343]<p>QEMU</p>  |   <br>[![Alt][1344]][1344]<p>Qgis</p>   |     <br>[![Alt][1345]][1345]<p>Qi</p>    |   <br>[![Alt][1346]][1346]<p>Qiita</p>   |    <br>[![Alt][1347]][1347]<p>Qiskit</p>    |
 | :------------------------------------------: | :------------------------------------: | :-------------------------------------: | :--------------------------------------: | :--------------------------------------: | :-----------------------------------------: |
@@ -2997,7 +3012,7 @@ Clean badges for your GitHub Profile Readme
 
 [1364]: https://img.shields.io/badge/Qzone-FECE00.svg?style=for-the-badge&logo=Qzone&logoColor=black
 
-<h1>R</h1>
+<h2>R</h2>
 
 |    <br>[![Alt][1366]][1366]<p>RabbitMQ</p>   |       <br>[![Alt][1367]][1367]<p>Racket</p>       |            <br>[![Alt][1368]][1368]<p>Radar</p>            |      <br>[![Alt][1369]][1369]<p>RadioPublic</p>      | <br>[![Alt][1370]][1370]<p>Rainmeter</p> |     <br>[![Alt][1371]][1371]<p>Rakuten</p>     |
 | :------------------------------------------: | :-----------------------------------------------: | :--------------------------------------------------------: | :--------------------------------------------------: | :--------------------------------------: | :--------------------------------------------: |
@@ -3160,7 +3175,7 @@ Clean badges for your GitHub Profile Readme
 
 [1438]: https://img.shields.io/badge/Ryanair-073590.svg?style=for-the-badge&logo=Ryanair&logoColor=white
 
-<h1>S</h1>
+<h2>S</h2>
 
 |              <br>[![Alt][1440]][1440]<p>Safari</p>             |     <br>[![Alt][1441]][1441]<p>Sahibinden</p>     |   <br>[![Alt][1442]][1442]<p>Salesforce</p>   |     <br>[![Alt][1443]][1443]<p>SaltStack</p>    |      <br>[![Alt][1444]][1444]<p>Samsung</p>      |     <br>[![Alt][1445]][1445]<p>Samsung Pay</p>    |
 | :------------------------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------: | :---------------------------------------------: | :----------------------------------------------: | :-----------------------------------------------: |
@@ -3587,7 +3602,7 @@ Clean badges for your GitHub Profile Readme
 
 [1634]: https://img.shields.io/badge/Synology-B5B5B6.svg?style=for-the-badge&logo=Synology&logoColor=black
 
-<h1>T</h1>
+<h2>T</h2>
 
 |       <br>[![Alt][1636]][1636]<p>Tableau</p>       |         <br>[![Alt][1637]][1637]<p>tado°</p>         |        <br>[![Alt][1638]][1638]<p>Tails</p>        |      <br>[![Alt][1639]][1639]<p>Tailwind CSS</p>     |        <br>[![Alt][1640]][1640]<p>Talend</p>        |  <br>[![Alt][1641]][1641]<p>Tampermonkey</p> |
 | :------------------------------------------------: | :--------------------------------------------------: | :------------------------------------------------: | :--------------------------------------------------: | :-------------------------------------------------: | :------------------------------------------: |
@@ -3810,7 +3825,7 @@ Clean badges for your GitHub Profile Readme
 
 [1736]: https://img.shields.io/badge/TYPO3-FF8700.svg?style=for-the-badge&logo=TYPO3&logoColor=white
 
-<h1>U</h1>
+<h2>U</h2>
 
 |   <br>[![Alt][1738]][1738]<p>Uber Eats</p>   | <br>[![Alt][1739]][1739]<p>Ubiquiti</p> |  <br>[![Alt][1740]][1740]<p>Ubisoft</p> |  <br>[![Alt][1741]][1741]<p>uBlock Origin</p>  |  <br>[![Alt][1742]][1742]<p>Ubuntu</p> |  <br>[![Alt][1743]][1743]<p>Udacity</p>  |
 | :------------------------------------------: | :-------------------------------------: | :-------------------------------------: | :--------------------------------------------: | :------------------------------------: | :--------------------------------------: |
@@ -3875,7 +3890,7 @@ Clean badges for your GitHub Profile Readme
 
 [1765]: https://img.shields.io/badge/USPS-333366.svg?style=for-the-badge&logo=USPS&logoColor=white
 
-<h1>V</h1>
+<h2>V</h2>
 
 |    <br>[![Alt][1767]][1767]<p>V8</p>    |   <br>[![Alt][1768]][1768]<p>Vaadin</p>   |      <br>[![Alt][1769]][1769]<p>Vagrant</p>     |    <br>[![Alt][1770]][1770]<p>Valve</p>    |       <br>[![Alt][1771]][1771]<p>Vapor</p>      |        <br>[![Alt][1772]][1772]<p>Vault</p>       |
 | :-------------------------------------: | :---------------------------------------: | :---------------------------------------------: | :----------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
@@ -3979,7 +3994,7 @@ Clean badges for your GitHub Profile Readme
 
 [1812]: https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=Vultr&logoColor=white
 
-<h1>W</h1>
+<h2>W</h2>
 
 |   <br>[![Alt][1814]][1814]<p>Wagtail</p>   |          <br>[![Alt][1815]][1815]<p>WakaTime</p>         |       <br>[![Alt][1816]][1816]<p>WALKMAN</p>       |  <br>[![Alt][1817]][1817]<p>Wappalyzer</p> |   <br>[![Alt][1818]][1818]<p>Warner Bros.</p>   |      <br>[![Alt][1819]][1819]<p>Wattpad</p>      |
 | :----------------------------------------: | :------------------------------------------------------: | :------------------------------------------------: | :----------------------------------------: | :---------------------------------------------: | :----------------------------------------------: |
@@ -4113,7 +4128,7 @@ Clean badges for your GitHub Profile Readme
 
 [1873]: https://img.shields.io/badge/WWE-000000.svg?style=for-the-badge&logo=WWE&logoColor=white
 
-<h1>X</h1>
+<h2>X</h2>
 
 |      <br>[![Alt][1875]][1875]<p>X.Org</p>     | <br>[![Alt][1876]][1876]<p>Xamarin</p> |  <br>[![Alt][1877]][1877]<p>XAML</p>  |  <br>[![Alt][1878]][1878]<p>XAMPP</p> |  <br>[![Alt][1879]][1879]<p>Xbox</p>  | <br>[![Alt][1880]][1880]<p>Xcode</p> |
 | :-------------------------------------------: | :------------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :----------------------------------: |
@@ -4152,7 +4167,7 @@ Clean badges for your GitHub Profile Readme
 
 [1890]: https://img.shields.io/badge/XState-2C3E50.svg?style=for-the-badge&logo=XState&logoColor=white
 
-<h1>Y</h1>
+<h2>Y</h2>
 
 |     <br>[![Alt][1892]][1892]<p>Yahoo!</p>    |      <br>[![Alt][1893]][1893]<p>Yale</p>      | <br>[![Alt][1894]][1894]<p>Yamaha Corporation</p> | <br>[![Alt][1895]][1895]<p>Yamaha Motor Corporation</p> |  <br>[![Alt][1896]][1896]<p>Yammer</p> |     <br>[![Alt][1897]][1897]<p>Yandex</p>     |
 | :------------------------------------------: | :-------------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------------: | :------------------------------------: | :-------------------------------------------: |
@@ -4189,7 +4204,7 @@ Clean badges for your GitHub Profile Readme
 
 [1906]: https://img.shields.io/badge/YouTube%20TV-FF0000.svg?style=for-the-badge&logo=YouTube-TV&logoColor=white
 
-<h1>Z</h1>
+<h2>Z</h2>
 
 | <br>[![Alt][1908]][1908]<p>Zalando</p> | <br>[![Alt][1909]][1909]<p>Zapier</p> |   <br>[![Alt][1910]][1910]<p>ZDF</p>  |  <br>[![Alt][1911]][1911]<p>Zelle</p> |  <br>[![Alt][1912]][1912]<p>Zend</p>  | <br>[![Alt][1913]][1913]<p>Zend Framework</p> |
 | :------------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-----------------------------------: | :-------------------------------------------: |

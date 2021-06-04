@@ -42,7 +42,7 @@ for (const title in simpleIcons) {
         `[![Alt][${count}]][${count}]`,
         // `<a href="${src}"><img src="${src}"/></a>`,
         link,
-        `[${count}]: ${encodeURI(src)}`
+        `[${count}]: ${encodeURI(src)}`,
     ];
     data.push(iconData);
 }
@@ -64,24 +64,20 @@ const groupNames = (arr) => {
 };
 
 const catData = groupNames(data);
-// console.log(groupNames(data));
 
 function generate(data) {
     const config = {
         transforms: {
             BADGES() {
                 var output = "";
-                for (const key in catData) {
-                    if (Object.hasOwnProperty.call(catData, key)) {
-                        const element = catData[key];
-                        output += "<h1>" + element.letter + "</h1>\n\n";
-                        // "</h1>\n\n<details><summary>Click to expand!</summary> \n\n";
+                for (const key in data) {
+                    if (Object.hasOwnProperty.call(data, key)) {
+                        const element = data[key];
+                        output += "<h2>" + element.letter + "</h2>\n\n";
                         var cols = element.names.map((el) => {
-                            // return [el[1], el[2]];
                             return "<br>" + el[1] + "<p>" + el[0] + "</p>";
                         });
                         var links = element.names.map((el) => {
-                            // return [el[1], el[2]];
                             return el[3] + "\n\n";
                         });
                         const newCols = [];
@@ -91,10 +87,7 @@ function generate(data) {
                                 align: ["c", "c", "c", "c", "c", "c"],
                             }) + "\n\n";
 
-                        output += links.join("")
-
-                        // + "\n\n</details>\n\n";
-                        // console.log(cols);
+                        output += links.join("");
                     }
                 }
                 return output;
@@ -107,6 +100,6 @@ function generate(data) {
     });
 }
 
-generate(data);
+generate(catData);
 
 // console.log(data);
