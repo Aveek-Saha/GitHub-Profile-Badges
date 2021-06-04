@@ -6,6 +6,7 @@ const { hexToRGB, luminance } = require("./utils");
 
 const lumWhite = luminance(255, 255, 255);
 var data = [];
+var count = 0;
 
 for (const title in simpleIcons) {
     const icon = simpleIcons.get(title);
@@ -34,11 +35,14 @@ for (const title in simpleIcons) {
         lumBg < 0.69 ? "white" : "black"
     }`;
     const link = `\`${src}\``;
+    count += 1;
 
     const iconData = [
         titleNorm,
-        `<img src="${src}"/>`,
+        `[![Alt][${count}]][${count}]`,
+        // `<a href="${src}"><img src="${src}"/></a>`,
         link,
+        `[${count}]: ${encodeURI(src)}`
     ];
     data.push(iconData);
 }
@@ -76,12 +80,18 @@ function generate(data) {
                             // return [el[1], el[2]];
                             return "<br>" + el[1] + "<p>" + el[0] + "</p>";
                         });
+                        var links = element.names.map((el) => {
+                            // return [el[1], el[2]];
+                            return el[3] + "\n\n";
+                        });
                         const newCols = [];
                         while (cols.length) newCols.push(cols.splice(0, 6));
                         output +=
                             table([...newCols], {
                                 align: ["c", "c", "c", "c", "c", "c"],
                             }) + "\n\n";
+
+                        output += links.join("")
 
                         // + "\n\n</details>\n\n";
                         // console.log(cols);
