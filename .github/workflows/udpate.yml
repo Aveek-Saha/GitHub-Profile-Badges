@@ -13,6 +13,7 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14
+      - run: npm i
       - run: npm start
       - name: Add
         run: |
