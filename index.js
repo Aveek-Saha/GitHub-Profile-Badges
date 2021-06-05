@@ -11,7 +11,9 @@ for (const title in simpleIcons) {
     const br = brightness(...rgb);
 
     const titleNorm = icon.title;
-    const logo = titleNorm.split(" ").join("-");
+    let logo = titleNorm.split(" ").join("-");
+    if (titleNorm.split("&").length > 1 || titleNorm.split(".").length > 1)
+        logo = icon.slug;
     const name = titleNorm.split("-").join("");
     const src = `https://img.shields.io/badge/${name}-${
         icon.hex
