@@ -1,0 +1,21 @@
+@media (prefers-color-scheme: dark) {
+    html {
+        --background: #121212;
+        --primary: #ffdd67;
+        --primaryShadow: #ffcc1b;
+        --secondary: #ff5a79;
+        --secondaryShadow: #f3002e;
+        --textInPrimary: #000;
+        --textInSecondary: #fff;
+        --footerBackground: #00e5ff;
+        --cardBackground: #2b2b2b;
+        --cardText: #fff;
+        --emojiCodeText: #fff;
+        --cardShadow: none;
+        --notificationText: #fff;
+        --notificationShadow: rgba(0, 0, 0, 0.05);
+        --notificationEmojiCodeColor: rgba(0, 0, 0, 0.85);
+        --menuBackground: #ff5a79;
+        --carbonAdBadgeBackground: #2b2b2b;
+    }
+}
