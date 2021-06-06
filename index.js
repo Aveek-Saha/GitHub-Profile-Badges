@@ -1,7 +1,11 @@
 const simpleIcons = require("simple-icons");
+const fs = require("fs");
+const path = require("path");
+
 const { hexToRGB, brightness, generate, groupNames } = require("./utils");
 
 var data = [];
+var dataStore = {};
 var count = 0;
 
 for (const title in simpleIcons) {
@@ -23,6 +27,11 @@ for (const title in simpleIcons) {
     const link = `\`${src}\``;
     count += 1;
 
+    dataStore[titleNorm] = {
+        hex: icon.hex,
+        src: src,
+    };
+
     const iconData = [
         titleNorm,
         `[![Alt][${count}]][${count}]`,
@@ -30,6 +39,15 @@ for (const title in simpleIcons) {
         `[${count}]: ${encodeURI(src)}`,
     ];
     data.push(iconData);
+}
+
+try {
+    fs.writeFileSync(
+        path.join(__dirname, "data", "icons.json"),
+        JSON.stringify(dataStore)
+    );
+} catch (err) {
+    console.error(err);
 }
 
 const catData = groupNames(data);
