@@ -1,6 +1,8 @@
 # GitHub Profile Badges
 Clean and consistent badges for your Github profile. All badges are readable with good contrast. More than 1.9k badges with icons to choose from.
 
+This list is auto updated from [Simple Icons](https://simpleicons.org/) once a day so it's always up to date.
+
 # Usage
 Just right click and copy link address, then use it in your markdown
 
