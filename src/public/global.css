@@ -38,6 +38,7 @@ html {
     margin: 1em 0;
     /* transition: all 0.25s ease-out; */
     overflow: hidden;
+	cursor: pointer;
 }
 .card:hover {
     box-shadow: 0 10px 20px 0 var(--cardShadow);
