@@ -1,8 +1,16 @@
 <script>
     export let icons;
     new ClipboardJS(".card");
-    console.log(icons);
-	console.log(Object.entries(icons).length);
+    let search = "";
+
+    icons = icons.icons;
+
+    $: list = icons
+        ? icons.filter(
+              (item) =>
+                  item.name.toLowerCase().indexOf(search.toLowerCase()) !== -1
+          )
+        : [];
 </script>
 
 <main>
@@ -10,26 +18,29 @@
         <div class="row">
             <div class="mt-3 mb-3">
                 <input
-                    type="email"
+                    type="search"
+                    bind:value={search}
                     class="form-control search"
                     id="search"
                     placeholder="Search by name"
                 />
             </div>
         </div>
-		
+
         <div class="row row-cols-auto justify-content-center">
-            {#each Object.entries(icons) as [name]}
+            {#each list as icon}
                 <div class="col mb-3">
                     <div
-                        class="card h-100" style="background-color: #{icons[name].hex};"
-                        data-clipboard-text={icons[name].src}
+                        class="card h-100"
+                        style="background-color: #{icon.hex};"
+                        data-clipboard-text={icon.src}
                     >
                         <div class="img-badge">
                             <img
-                                src={icons[name].src}
+                                loading="lazy"
+                                src={icon.src}
                                 class="card-img-top"
-                                alt={name}
+                                alt={icon.name}
                             />
                         </div>
                     </div>

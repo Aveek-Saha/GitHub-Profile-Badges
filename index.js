@@ -5,7 +5,7 @@ const path = require("path");
 const { hexToRGB, brightness, generate, groupNames } = require("./utils");
 
 var data = [];
-var dataStore = {};
+var dataStore = [];
 var count = 0;
 
 for (const title in simpleIcons) {
@@ -27,10 +27,11 @@ for (const title in simpleIcons) {
     const link = `\`${src}\``;
     count += 1;
 
-    dataStore[titleNorm] = {
+    dataStore.push({
+        name: titleNorm,
         hex: icon.hex,
         src: src,
-    };
+    });
 
     const iconData = [
         titleNorm,
@@ -41,10 +42,12 @@ for (const title in simpleIcons) {
     data.push(iconData);
 }
 
+var obj = { icons: dataStore };
+
 try {
     fs.writeFileSync(
         path.join(__dirname, "data", "icons.json"),
-        JSON.stringify(dataStore)
+        JSON.stringify(obj)
     );
 } catch (err) {
     console.error(err);
