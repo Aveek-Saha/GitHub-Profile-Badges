@@ -35,14 +35,14 @@ html {
     border-radius: 4px;
     box-shadow: 0 1px 2px 0 var(--cardShadow);
     flex: 1 1;
-    margin: 1em 0;
+    /* margin: 1em 0; */
     /* transition: all 0.25s ease-out; */
-    overflow: hidden;
+    /* overflow: -moz-hidden-unscrollable; */
 	cursor: pointer;
 }
 .card:hover {
     box-shadow: 0 10px 20px 0 var(--cardShadow);
-    transform: translateY(-1px);
+    transform: translateY(-3px);
 }
 .card-text {
     /* margin: 1em 0; */
@@ -50,9 +50,11 @@ html {
     bottom: 1em;
     left: 50%;
     transform: translate(-50%, -50%);
-	font-weight: bold;
-	/* font-weight: 500; */
-    font-size: 1.25em;
+	/* font-weight: bold;
+    font-size: 1.25em; */
+	/* overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap; */
 }
 .card-body {
     text-align: center;
@@ -69,5 +71,6 @@ html {
     margin-right: 1rem;
 }
 .img-badge {
-    padding: 1em;
+    padding: 0.2em;
+    text-align: center;
 }
