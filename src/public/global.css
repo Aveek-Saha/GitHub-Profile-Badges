@@ -24,6 +24,27 @@
     }
 }
 
+@media (prefers-color-scheme: light) {
+    html {
+        --background: #fff;
+        --primary: #ffdd67;
+        --primaryShadow: #ffcc1b;
+        --secondary: #ff5a79;
+        --secondaryShadow: #f3002e;
+        --textInPrimary: #000;
+        --textInSecondary: #fff;
+        --footerBackground: #00e5ff;
+        --cardBackground: #fff;
+        --cardText: #999;
+        --emojiCodeText: #000;
+        --cardShadow: rgba(168, 182, 191, 0.6);
+        --notificationText: #fff;
+        --notificationShadow: rgba(0, 0, 0, 0.05);
+        --notificationEmojiCodeColor: rgba(0, 0, 0, 0.85);
+        --menuBackground: #ff5a79;
+        --carbonAdBadgeBackground: #f1f1f1;
+    }
+}
 body,
 html {
     background-color: var(--background);
@@ -35,29 +56,25 @@ html {
     border-radius: 4px;
     box-shadow: 0 1px 2px 0 var(--cardShadow);
     flex: 1 1;
-    /* margin: 1em 0; */
-    /* transition: all 0.25s ease-out; */
-    /* overflow: -moz-hidden-unscrollable; */
-	cursor: pointer;
+    cursor: pointer;
 }
 .card:hover {
     box-shadow: 0 10px 20px 0 var(--cardShadow);
     transform: translateY(-3px);
 }
 .card-text {
-    /* margin: 1em 0; */
-	position: absolute;
+    position: absolute;
     bottom: 1em;
     left: 50%;
     transform: translate(-50%, -50%);
-	/* font-weight: bold;
-    font-size: 1.25em; */
-	/* overflow: hidden;
-	text-overflow: ellipsis;
-	white-space: nowrap; */
 }
 .card-body {
     text-align: center;
+}
+.form-control:focus {
+    background-color: var(--cardBackground);
+    color: var(--text);
+    box-shadow: none;
 }
 .search {
     background-color: var(--cardBackground);

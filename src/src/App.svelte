@@ -16,9 +16,9 @@
 <main>
     <div class="container">
         <div class="row">
-            <div class="mt-3 mb-3">
+            <div class="mt-5 mb-3">
                 <input
-                    type="search"
+                    type="text"
                     bind:value={search}
                     class="form-control search"
                     id="search"
