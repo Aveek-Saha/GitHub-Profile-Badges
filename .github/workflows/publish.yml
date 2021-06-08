@@ -13,10 +13,11 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14
+      - run: cd src
       - run: npm i
       - run: npm run build
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./src/public
+          publish_dir: ./public
