@@ -13,7 +13,8 @@ jobs:
       - uses: actions/setup-node@v1
         with:
           node-version: 14
-      - run: cd src
+      - name: Change dir
+        working-directory: ./src
       - run: npm i
       - run: npm run build
       - name: Deploy
