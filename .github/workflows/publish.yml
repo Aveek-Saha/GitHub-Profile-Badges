@@ -7,14 +7,15 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: ./src
     steps:
       - uses: actions/checkout@v2
       
       - uses: actions/setup-node@v1
         with:
           node-version: 14
-      - name: Change dir
-        working-directory: ./src
       - run: npm i
       - run: npm run build
       - name: Deploy
