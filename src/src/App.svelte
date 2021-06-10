@@ -35,13 +35,17 @@
                         style="background-color: #{icon.hex};"
                         data-clipboard-text={icon.src}
                     >
-                        <div class="img-badge">
-                            <img
+                        <div class="img-badge" style="color:{icon.color}; fill:{icon.color}" >
+                            <!-- <img
                                 loading="lazy"
                                 src={icon.src}
                                 class="card-img-top"
                                 alt={icon.name}
-                            />
+                            /> -->
+                        <div style="font: bold 10px Verdana;">
+                            {@html icon.svg}
+                            <span>{icon.name}</span>
+                        </div>
                         </div>
                     </div>
                 </div>

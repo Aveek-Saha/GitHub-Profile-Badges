@@ -31,6 +31,8 @@ for (const title in simpleIcons) {
         name: titleNorm,
         hex: icon.hex,
         src: src,
+        color: br <= 0.69 ? "white" : "black",
+        svg: icon.svg,
     });
 
     const iconData = [

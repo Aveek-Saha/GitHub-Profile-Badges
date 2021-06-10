@@ -88,6 +88,21 @@ html {
     margin-right: 1rem;
 }
 .img-badge {
-    padding: 0.2em;
+    padding: 0.63em 0.75em;
     text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 1.4px;
+    fill: #fff;
+}
+svg {
+    width: 15.5px;
+    height: 15.5px;
+    padding: 1px;
+    overflow: visible;
+}
+
+svg,
+span {
+  vertical-align: middle;
+  display: inline-block;
 }
