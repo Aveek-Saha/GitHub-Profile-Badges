@@ -7,7 +7,7 @@
     icons = icons.icons;
 
     function createToast() {
-        toast.pop()
+        toast.pop();
         toast.push("Badge Copied!", {
             theme: {
                 "--toastBackground": "#48BB78",
