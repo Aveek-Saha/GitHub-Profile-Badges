@@ -1,9 +1,23 @@
 <script>
+    import { SvelteToast, toast } from "@zerodevx/svelte-toast";
     export let icons;
     new ClipboardJS(".card");
     let search = "";
-
+    const options = {};
     icons = icons.icons;
+
+    function createToast() {
+        toast.pop()
+        toast.push("Badge Copied!", {
+            theme: {
+                "--toastBackground": "#48BB78",
+                "--toastProgressBackground": "#2F855A",
+            },
+            // dismissable: false,
+            duration: 3000,
+            // intro: { x: 100 }
+        });
+    }
 
     $: list = icons
         ? icons.filter(
@@ -16,7 +30,7 @@
 <main>
     <div class="container">
         <div class="row">
-            <div class="mt-5 mb-3">
+            <div class="mt-4 mb-4">
                 <input
                     type="text"
                     bind:value={search}
@@ -34,18 +48,22 @@
                         class="card h-100"
                         style="background-color: #{icon.hex};"
                         data-clipboard-text={icon.src}
+                        on:click={() => createToast()}
                     >
-                        <div class="img-badge" style="color:{icon.color}; fill:{icon.color}" >
+                        <div
+                            class="img-badge"
+                            style="color:{icon.color}; fill:{icon.color}"
+                        >
                             <!-- <img
                                 loading="lazy"
                                 src={icon.src}
                                 class="card-img-top"
                                 alt={icon.name}
                             /> -->
-                        <div style="font: bold 10px Verdana;">
-                            {@html icon.svg}
-                            <span>{icon.name}</span>
-                        </div>
+                            <div style="font: bold 10px Verdana;">
+                                {@html icon.svg}
+                                <span>{icon.name}</span>
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -53,6 +71,7 @@
         </div>
     </div>
 </main>
+<SvelteToast {options} />
 
 <style>
 </style>

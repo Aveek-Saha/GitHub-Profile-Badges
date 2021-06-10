@@ -60,7 +60,7 @@ html {
 }
 .card:hover {
     box-shadow: 0 10px 20px 0 var(--cardShadow);
-    transform: translateY(-3px);
+    transform: translateY(-4px);
 }
 .card-text {
     position: absolute;
