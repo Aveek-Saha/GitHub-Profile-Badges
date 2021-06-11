@@ -58,9 +58,17 @@ html {
     flex: 1 1;
     cursor: pointer;
 }
-.card:hover {
+/* .card:hover {
     box-shadow: 0 10px 20px 0 var(--cardShadow);
     transform: translateY(-4px);
+} */
+.card:hover {
+    transform: scale(1.1);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 4px 8px rgba(0, 0, 0, 0.06);
+}
+.card:active {
+    transform: scale(0.98);
+    box-shadow: 3px 2px 22px 1px rgba(0, 0, 0, 0.24);
 }
 .card-text {
     position: absolute;
