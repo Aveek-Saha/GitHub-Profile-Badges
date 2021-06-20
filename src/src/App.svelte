@@ -61,7 +61,15 @@
                                 alt={icon.name}
                             /> -->
                             <div style="font: bold 10px Verdana;">
-                                {@html icon.svg}
+                                <!-- {@html icon.svg} -->
+                                <svg
+                                    role="img"
+                                    viewBox="0 0 24 24"
+                                    xmlns="http://www.w3.org/2000/svg"
+                                    ><title>{icon.name}</title><path
+                                        d={icon.svg}
+                                    /></svg
+                                >
                                 <span>{icon.name}</span>
                             </div>
                         </div>

@@ -32,7 +32,7 @@ for (const title in simpleIcons) {
         hex: icon.hex,
         src: src,
         color: br <= 0.69 ? "white" : "black",
-        svg: icon.svg,
+        svg: icon.path,
     });
 
     const iconData = [
