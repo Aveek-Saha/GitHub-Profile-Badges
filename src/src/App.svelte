@@ -30,7 +30,21 @@
 <main>
     <div class="container">
         <div class="row">
-            <div class="mt-4 mb-4">
+            <header class="header mt-5 mb-4">
+                <h1 class="header__title">GitHub Profile Badges</h1>
+                <p class="header__item">
+                    <a href="https://github.com/Aveek-Saha/GitHub-Profile-Badges">
+                        <i
+                            class="bi-github me-2"
+                            role="img"
+                            aria-label="GitHub"
+                        />GitHub
+                    </a>
+                </p>
+            </header>
+        </div>
+        <div class="row sticky-top">
+            <div class="mb-4">
                 <input
                     type="text"
                     bind:value={search}
