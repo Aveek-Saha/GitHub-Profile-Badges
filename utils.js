@@ -46,7 +46,7 @@ module.exports = {
             },
         };
 
-        markdownMagic(path.join(__dirname, "README.md"), config, (d) => {
+        markdownMagic(path.join(__dirname, "badges", "README.md"), config, (d) => {
             console.log(`Added badges`);
         });
     },
