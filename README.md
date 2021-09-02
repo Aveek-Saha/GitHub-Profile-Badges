@@ -4,11 +4,13 @@ Clean and consistent badges for your GitHub profile. All badges are readable wit
 This list is auto updated from [Simple Icons](https://simpleicons.org/) once a day so it's always up to date.
 
 # Usage
-## [Website](https://home.aveek.io/GitHub-Profile-Badges/)
+### [Website](https://home.aveek.io/GitHub-Profile-Badges/)
 
 Go to [`GitHub Profile Badges`](https://home.aveek.io/GitHub-Profile-Badges/) and just click on any badge to copy the image URL.
 
-## This page
+## From the markdown
+Go to the Badges folder: [`badges`](https://github.com/Aveek-Saha/GitHub-Profile-Badges/tree/master/badges)
+
 Just right click and copy link address, then use it in your markdown
 
 ```md
