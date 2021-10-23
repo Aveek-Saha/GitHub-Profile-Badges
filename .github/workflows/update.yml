@@ -14,6 +14,7 @@ jobs:
         with:
           node-version: 14
       - run: npm i
+      - run: npm i simple-icons@latest
       - run: npm start
       - name: Add
         run: |
