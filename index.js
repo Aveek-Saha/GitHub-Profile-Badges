@@ -9,7 +9,7 @@ var dataStore = [];
 var count = 0;
 
 for (const title in simpleIcons) {
-    const icon = simpleIcons.get(title);
+    const icon = simpleIcons.Get(title);
 
     const rgb = hexToRGB(icon.hex);
     const br = brightness(...rgb);
