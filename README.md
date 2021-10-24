@@ -1,7 +1,17 @@
-# GitHub Profile Badges
-Clean and consistent badges for your GitHub profile. All badges are readable with good contrast. More than 1.9k badges with icons to choose from.
+<h1 align="center">
+<br>
+GitHub Profile Badges <img width = "32px" src = "https://simpleicons.org/icons/shieldsdotio.svg">
+</h1>
 
-This list is auto updated from [Simple Icons](https://simpleicons.org/) once a month so it's always up to date.
+<h3 align="center">
+<img alt="Alt text" src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
+<img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+</h3>
+
+Clean and consistent badges for your GitHub profile. All badges are readable with good contrast. More than 2k badges with icons to choose from.
+
+This list is auto updated from [Simple Icons](https://simpleicons.org/) twice a month so it's always up to date.
 
 # Usage
 ### [Website](https://home.aveek.io/GitHub-Profile-Badges/)
