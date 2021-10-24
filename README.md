@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-GitHub Profile Badges <img width = "32px" src = "https://simpleicons.org/icons/shieldsdotio.svg">
+GitHub Profile Badges <img width = "32px" style="filter: invert(1)" src = "https://simpleicons.org/icons/shieldsdotio.svg">
 </h1>
 
 <h3 align="center">
