@@ -1,12 +1,13 @@
 <h1 align="center">
 <br>
-GitHub Profile Badges <img width = "32px" style="filter: invert(1)" src = "https://simpleicons.org/icons/shieldsdotio.svg">
+GitHub Profile Badges
 </h1>
 
 <h3 align="center">
+<img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/Svelte-FF3E00.svg?style=for-the-badge&logo=Svelte&logoColor=white"/>
 <img alt="Alt text" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black"/>
-<img alt="Alt text" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img alt="Alt text" src="https://img.shields.io/badge/Shields.io-000000.svg?style=for-the-badge&logo=shieldsdotio&logoColor=white"/>
 </h3>
 
 Clean and consistent badges for your GitHub profile. All badges are readable with good contrast. More than 2k badges with icons to choose from.
