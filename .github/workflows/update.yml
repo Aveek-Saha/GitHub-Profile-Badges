@@ -3,7 +3,7 @@ name: Update Icons
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0 1 * *"
+    - cron: "0 0 1,15 * *"
 jobs:
   update:
     runs-on: ubuntu-latest
