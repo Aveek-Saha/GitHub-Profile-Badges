@@ -27,3 +27,8 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Invoke GH pages build
+        uses: benc-uk/workflow-dispatch@v1
+        with:
+          workflow: Publish to gh-pages
+          token: ${{ secrets.PERSONAL_TOKEN }}
