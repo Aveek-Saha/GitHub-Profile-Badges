@@ -19,11 +19,13 @@ for (const title in simpleIcons) {
     if (titleNorm.split("&").length > 1 || titleNorm.split(".").length > 1)
         logo = icon.slug;
     const name = titleNorm.split("-").join("");
-    const src = `https://img.shields.io/badge/${name}-${
-        icon.hex
-    }.svg?style=for-the-badge&logo=${logo}&logoColor=${
-        br <= 0.69 ? "white" : "black"
-    }`;
+    const src = encodeURI(
+        `https://img.shields.io/badge/${name}-${
+            icon.hex
+        }.svg?style=for-the-badge&logo=${logo}&logoColor=${
+            br <= 0.69 ? "white" : "black"
+        }`
+    );
     const link = `\`${src}\``;
     count += 1;
 
@@ -39,7 +41,7 @@ for (const title in simpleIcons) {
         titleNorm,
         `[![Alt][${count}]][${count}]`,
         link,
-        `[${count}]: ${encodeURI(src)}`,
+        `[${count}]: ${src}`,
     ];
     data.push(iconData);
 }
