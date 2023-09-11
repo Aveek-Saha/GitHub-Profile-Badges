@@ -20,7 +20,7 @@
   "dependencies": {
     "markdown-magic": "^2.0.0",
     "markdown-table": "^2.0.0",
-    "simple-icons": "^9.13.0"
+    "simple-icons": "^9.14.0"
   },
   "devDependencies": {}
 }
