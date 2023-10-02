@@ -913,7 +913,7 @@ OR
 
 [396]: https://img.shields.io/badge/Campaign%20Monitor-111324.svg?style=for-the-badge&logo=Campaign-Monitor&logoColor=white
 
-[397]: https://img.shields.io/badge/Canonical-77216F.svg?style=for-the-badge&logo=Canonical&logoColor=white
+[397]: https://img.shields.io/badge/Canonical-E95420.svg?style=for-the-badge&logo=Canonical&logoColor=white
 
 [398]: https://img.shields.io/badge/Canva-00C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white
 
@@ -2274,7 +2274,7 @@ OR
 
 [1028]: https://img.shields.io/badge/Handlebars.js-000000.svg?style=for-the-badge&logo=handlebarsdotjs&logoColor=white
 
-[1029]: https://img.shields.io/badge/Handshake-FF2F1C.svg?style=for-the-badge&logo=Handshake&logoColor=white
+[1029]: https://img.shields.io/badge/Handshake-D3FB52.svg?style=for-the-badge&logo=Handshake&logoColor=black
 
 [1030]: https://img.shields.io/badge/Handshake-000000.svg?style=for-the-badge&logo=Handshake&logoColor=white
 
@@ -2364,13 +2364,13 @@ OR
 
 [1073]: https://img.shields.io/badge/Honor-000000.svg?style=for-the-badge&logo=Honor&logoColor=white
 
-[1074]: https://img.shields.io/badge/Hootsuite-143059.svg?style=for-the-badge&logo=Hootsuite&logoColor=white
+[1074]: https://img.shields.io/badge/Hootsuite-FF4C46.svg?style=for-the-badge&logo=Hootsuite&logoColor=white
 
 [1075]: https://img.shields.io/badge/Hoppscotch-31C48D.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white
 
 [1076]: https://img.shields.io/badge/Hotels.com-D32F2F.svg?style=for-the-badge&logo=hotelsdotcom&logoColor=white
 
-[1077]: https://img.shields.io/badge/Hotjar-FD3A5C.svg?style=for-the-badge&logo=Hotjar&logoColor=white
+[1077]: https://img.shields.io/badge/Hotjar-FF3C00.svg?style=for-the-badge&logo=Hotjar&logoColor=white
 
 [1078]: https://img.shields.io/badge/Hotwire-FFE801.svg?style=for-the-badge&logo=Hotwire&logoColor=black
 
@@ -3876,7 +3876,7 @@ OR
 
 [1753]: https://img.shields.io/badge/Personio-000000.svg?style=for-the-badge&logo=Personio&logoColor=white
 
-[1754]: https://img.shields.io/badge/Pets%20at%20Home-4BA840.svg?style=for-the-badge&logo=Pets-at-Home&logoColor=white
+[1754]: https://img.shields.io/badge/Pets%20at%20Home-00AA28.svg?style=for-the-badge&logo=Pets-at-Home&logoColor=white
 
 [1755]: https://img.shields.io/badge/Peugeot-000000.svg?style=for-the-badge&logo=Peugeot&logoColor=white
 
@@ -4056,7 +4056,7 @@ OR
 
 [1843]: https://img.shields.io/badge/Preact-673AB8.svg?style=for-the-badge&logo=Preact&logoColor=white
 
-[1844]: https://img.shields.io/badge/Prefect-024DFD.svg?style=for-the-badge&logo=Prefect&logoColor=white
+[1844]: https://img.shields.io/badge/Prefect-070E10.svg?style=for-the-badge&logo=Prefect&logoColor=white
 
 [1845]: https://img.shields.io/badge/Premier%20League-360D3A.svg?style=for-the-badge&logo=Premier-League&logoColor=white
 
@@ -4482,7 +4482,7 @@ OR
 
 [2041]: https://img.shields.io/badge/Ruby-CC342D.svg?style=for-the-badge&logo=Ruby&logoColor=white
 
-[2042]: https://img.shields.io/badge/Ruby%20on%20Rails-CC0000.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white
+[2042]: https://img.shields.io/badge/Ruby%20on%20Rails-D30001.svg?style=for-the-badge&logo=Ruby-on-Rails&logoColor=white
 
 [2043]: https://img.shields.io/badge/Ruby%20Sinatra-000000.svg?style=for-the-badge&logo=Ruby-Sinatra&logoColor=white
 
@@ -5153,7 +5153,7 @@ OR
 
 [2340]: https://img.shields.io/badge/Tata%20Consultancy%20Services-EE3984.svg?style=for-the-badge&logo=Tata-Consultancy-Services&logoColor=white
 
-[2341]: https://img.shields.io/badge/Tauri-FFC131.svg?style=for-the-badge&logo=Tauri&logoColor=black
+[2341]: https://img.shields.io/badge/Tauri-24C8D8.svg?style=for-the-badge&logo=Tauri&logoColor=white
 
 [2342]: https://img.shields.io/badge/TaxBuzz-ED8B0B.svg?style=for-the-badge&logo=TaxBuzz&logoColor=white
 
