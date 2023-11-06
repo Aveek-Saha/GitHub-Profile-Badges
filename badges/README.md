@@ -2350,7 +2350,7 @@ OR
 
 [1065]: https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=Hibernate&logoColor=white
 
-[1066]: https://img.shields.io/badge/Hilton-124D97.svg?style=for-the-badge&logo=Hilton&logoColor=white
+[1066]: https://img.shields.io/badge/Hilton-231F20.svg?style=for-the-badge&logo=Hilton&logoColor=white
 
 [1067]: https://img.shields.io/badge/Hitachi-E60027.svg?style=for-the-badge&logo=Hitachi&logoColor=white
 
@@ -2378,7 +2378,7 @@ OR
 
 [1079]: https://img.shields.io/badge/Hootsuite-FF4C46.svg?style=for-the-badge&logo=Hootsuite&logoColor=white
 
-[1080]: https://img.shields.io/badge/Hoppscotch-31C48D.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white
+[1080]: https://img.shields.io/badge/Hoppscotch-10B981.svg?style=for-the-badge&logo=Hoppscotch&logoColor=white
 
 [1081]: https://img.shields.io/badge/Hotels.com-EF3346.svg?style=for-the-badge&logo=hotelsdotcom&logoColor=white
 
