@@ -1,5 +1,6 @@
 <script>
     import { SvelteToast, toast } from "@zerodevx/svelte-toast";
+    import ScrollToTop from "./ScrollToTop.svelte";
     export let icons;
     new ClipboardJS(".card");
     let search = "";
@@ -92,6 +93,7 @@
             {/each}
         </div>
     </div>
+    <ScrollToTop />
 </main>
 <SvelteToast {options} />
 
