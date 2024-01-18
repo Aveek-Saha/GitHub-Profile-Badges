@@ -22,7 +22,7 @@
   const handleScroll = () => {
     const scrollButton = document.getElementById('scrollToTopBtn');
     const bodyHeight = document.body.offsetHeight;
-    const scrollThreshold = (3 / 4) * bodyHeight;
+    const scrollThreshold = bodyHeight / 2;
 
     if (scrollButton) {
       scrollButton.style.display = window.scrollY > scrollThreshold ? 'block' : 'none';
