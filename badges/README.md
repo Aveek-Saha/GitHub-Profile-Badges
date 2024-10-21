@@ -1552,7 +1552,7 @@ OR
 
 [694]: https://img.shields.io/badge/Dailymotion-0A0A0A.svg?style=for-the-badge&logo=Dailymotion&logoColor=white
 
-[695]: https://img.shields.io/badge/DaisyUI-5A0EF8.svg?style=for-the-badge&logo=DaisyUI&logoColor=white
+[695]: https://img.shields.io/badge/DaisyUI-1AD1A5.svg?style=for-the-badge&logo=DaisyUI&logoColor=white
 
 [696]: https://img.shields.io/badge/Dapr-0D2192.svg?style=for-the-badge&logo=Dapr&logoColor=white
 
@@ -1924,7 +1924,7 @@ OR
 
 [871]: https://img.shields.io/badge/EnterpriseDB-FF3E00.svg?style=for-the-badge&logo=EnterpriseDB&logoColor=white
 
-[872]: https://img.shields.io/badge/Envato-81B441.svg?style=for-the-badge&logo=Envato&logoColor=white
+[872]: https://img.shields.io/badge/Envato-87E64B.svg?style=for-the-badge&logo=Envato&logoColor=black
 
 [873]: https://img.shields.io/badge/Envoy%20Proxy-AC6199.svg?style=for-the-badge&logo=Envoy-Proxy&logoColor=white
 
