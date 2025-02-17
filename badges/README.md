@@ -2688,7 +2688,7 @@ OR
 | :-----------------------------------------: | :----------------------------------------: | :------------------------------------------: | :--------------------------------------------: | :----------------------------------------------------: | :-----------------------------------------------------------: |
 |  <br>[![Alt][1230]][1230]<p>HackerEarth</p> |  <br>[![Alt][1231]][1231]<p>HackerOne</p>  |   <br>[![Alt][1232]][1232]<p>HackerRank</p>  |     <br>[![Alt][1233]][1233]<p>Hackster</p>    |           <br>[![Alt][1234]][1234]<p>HAL</p>           |          <br>[![Alt][1235]][1235]<p>Handlebars.js</p>         |
 |   <br>[![Alt][1236]][1236]<p>Handshake</p>  |  <br>[![Alt][1237]][1237]<p>Handshake</p>  |    <br>[![Alt][1238]][1238]<p>HappyCow</p>   |      <br>[![Alt][1239]][1239]<p>Harbor</p>     |        <br>[![Alt][1240]][1240]<p>HarmonyOS</p>        |            <br>[![Alt][1241]][1241]<p>HashiCorp</p>           |
-|   <br>[![Alt][1242]][1242]<p>Hashnode</p>   |   <br>[![Alt][1243]][1243]<p>Haskell</p>   |     <br>[![Alt][1244]][1244]<p>Hasura</p>    | <br>[![Alt][1245]][1245]<p>Hatena Bookmark</p> |      <br>[![Alt][1246]][1246]<p>haveibeenpwned</p>     |              <br>[![Alt][1247]][1247]<p>Haxe</p>              |
+|   <br>[![Alt][1242]][1242]<p>Hashnode</p>   |   <br>[![Alt][1243]][1243]<p>Haskell</p>   |     <br>[![Alt][1244]][1244]<p>Hasura</p>    | <br>[![Alt][1245]][1245]<p>Hatena Bookmark</p> |    <br>[![Alt][1246]][1246]<p>Have I Been Pwned</p>    |              <br>[![Alt][1247]][1247]<p>Haxe</p>              |
 |      <br>[![Alt][1248]][1248]<p>HBO</p>     |     <br>[![Alt][1249]][1249]<p>HCL</p>     |   <br>[![Alt][1250]][1250]<p>HDFC Bank</p>   |   <br>[![Alt][1251]][1251]<p>Headless UI</p>   |      <br>[![Alt][1252]][1252]<p>Headphone Zone</p>     |            <br>[![Alt][1253]][1253]<p>Headspace</p>           |
 |    <br>[![Alt][1254]][1254]<p>Hearth</p>    | <br>[![Alt][1255]][1255]<p>hearthis.at</p> |     <br>[![Alt][1256]][1256]<p>Hedera</p>    |      <br>[![Alt][1257]][1257]<p>Helium</p>     |          <br>[![Alt][1258]][1258]<p>Helix</p>          |           <br>[![Alt][1259]][1259]<p>HelloFresh</p>           |
 | <br>[![Alt][1260]][1260]<p>Helly Hansen</p> |     <br>[![Alt][1261]][1261]<p>Helm</p>    |   <br>[![Alt][1262]][1262]<p>Help Scout</p>  |     <br>[![Alt][1263]][1263]<p>HelpDesk</p>    |        <br>[![Alt][1264]][1264]<p>Hepsiemlak</p>       |              <br>[![Alt][1265]][1265]<p>HERE</p>              |
@@ -2747,7 +2747,7 @@ OR
 
 [1245]: https://img.shields.io/badge/Hatena%20Bookmark-00A4DE.svg?style=for-the-badge&logo=Hatena-Bookmark&logoColor=white
 
-[1246]: https://img.shields.io/badge/haveibeenpwned-2A6379.svg?style=for-the-badge&logo=haveibeenpwned&logoColor=white
+[1246]: https://img.shields.io/badge/Have%20I%20Been%20Pwned-2A6379.svg?style=for-the-badge&logo=Have-I-Been-Pwned&logoColor=white
 
 [1247]: https://img.shields.io/badge/Haxe-EA8220.svg?style=for-the-badge&logo=Haxe&logoColor=white
 
@@ -6972,10 +6972,10 @@ OR
 
 <h2>X</h2>
 
-| <br>[![Alt][3187]][3187]<p>X.Org</p> |    <br>[![Alt][3188]][3188]<p>XAMPP</p>    |  <br>[![Alt][3189]][3189]<p>Xcode</p> | <br>[![Alt][3190]][3190]<p>XDA Developers</p> |  <br>[![Alt][3191]][3191]<p>Xendit</p> | <br>[![Alt][3192]][3192]<p>Xero</p> |
-| :----------------------------------: | :----------------------------------------: | :-----------------------------------: | :-------------------------------------------: | :------------------------------------: | :---------------------------------: |
-|  <br>[![Alt][3193]][3193]<p>XFCE</p> | <br>[![Alt][3194]][3194]<p>Xiaohongshu</p> | <br>[![Alt][3195]][3195]<p>Xiaomi</p> |      <br>[![Alt][3196]][3196]<p>Xing</p>      |   <br>[![Alt][3197]][3197]<p>XML</p>   | <br>[![Alt][3198]][3198]<p>XMPP</p> |
-|   <br>[![Alt][3199]][3199]<p>XO</p>  |     <br>[![Alt][3200]][3200]<p>XRP</p>     | <br>[![Alt][3201]][3201]<p>XSplit</p> |     <br>[![Alt][3202]][3202]<p>XState</p>     | <br>[![Alt][3203]][3203]<p>Xubuntu</p> |                                     |
+| <br>[![Alt][3187]][3187]<p>X.Org</p> |    <br>[![Alt][3188]][3188]<p>XAMPP</p>    |  <br>[![Alt][3189]][3189]<p>Xcode</p> | <br>[![Alt][3190]][3190]<p>XDA Developers</p> |  <br>[![Alt][3191]][3191]<p>Xendit</p> |  <br>[![Alt][3192]][3192]<p>Xero</p>  |
+| :----------------------------------: | :----------------------------------------: | :-----------------------------------: | :-------------------------------------------: | :------------------------------------: | :-----------------------------------: |
+|  <br>[![Alt][3193]][3193]<p>XFCE</p> | <br>[![Alt][3194]][3194]<p>Xiaohongshu</p> | <br>[![Alt][3195]][3195]<p>Xiaomi</p> |      <br>[![Alt][3196]][3196]<p>Xing</p>      |   <br>[![Alt][3197]][3197]<p>XML</p>   |  <br>[![Alt][3198]][3198]<p>XMPP</p>  |
+|   <br>[![Alt][3199]][3199]<p>XO</p>  |     <br>[![Alt][3200]][3200]<p>XRP</p>     | <br>[![Alt][3201]][3201]<p>XSplit</p> |     <br>[![Alt][3202]][3202]<p>XState</p>     | <br>[![Alt][3203]][3203]<p>Xubuntu</p> | <br>[![Alt][3204]][3204]<p>xyflow</p> |
 
 [3187]: https://img.shields.io/badge/X.Org-F28834.svg?style=for-the-badge&logo=xdotorg&logoColor=white
 
@@ -7011,152 +7011,154 @@ OR
 
 [3203]: https://img.shields.io/badge/Xubuntu-0044AA.svg?style=for-the-badge&logo=Xubuntu&logoColor=white
 
+[3204]: https://img.shields.io/badge/xyflow-1A192B.svg?style=for-the-badge&logo=xyflow&logoColor=white
+
 <h2>Y</h2>
 
-|      <br>[![Alt][3205]][3205]<p>yabai</p>     |    <br>[![Alt][3206]][3206]<p>Yale</p>    | <br>[![Alt][3207]][3207]<p>Yamaha Corporation</p> | <br>[![Alt][3208]][3208]<p>Yamaha Motor Corporation</p> |      <br>[![Alt][3209]][3209]<p>YAML</p>     |  <br>[![Alt][3210]][3210]<p>Yandex Cloud</p>  |
+|      <br>[![Alt][3206]][3206]<p>yabai</p>     |    <br>[![Alt][3207]][3207]<p>Yale</p>    | <br>[![Alt][3208]][3208]<p>Yamaha Corporation</p> | <br>[![Alt][3209]][3209]<p>Yamaha Motor Corporation</p> |      <br>[![Alt][3210]][3210]<p>YAML</p>     |  <br>[![Alt][3211]][3211]<p>Yandex Cloud</p>  |
 | :-------------------------------------------: | :---------------------------------------: | :-----------------------------------------------: | :-----------------------------------------------------: | :------------------------------------------: | :-------------------------------------------: |
-|      <br>[![Alt][3211]][3211]<p>Yarn</p>      |    <br>[![Alt][3212]][3212]<p>Yelp</p>    |        <br>[![Alt][3213]][3213]<p>Yeti</p>        |            <br>[![Alt][3214]][3214]<p>Yii</p>           |     <br>[![Alt][3215]][3215]<p>Yoast</p>     |      <br>[![Alt][3216]][3216]<p>YOLO</p>      |
-|    <br>[![Alt][3217]][3217]<p>YouHodler</p>   |   <br>[![Alt][3218]][3218]<p>YouTube</p>  |   <br>[![Alt][3219]][3219]<p>YouTube Gaming</p>   |       <br>[![Alt][3220]][3220]<p>YouTube Kids</p>       | <br>[![Alt][3221]][3221]<p>YouTube Music</p> | <br>[![Alt][3222]][3222]<p>YouTube Shorts</p> |
-| <br>[![Alt][3223]][3223]<p>YouTube Studio</p> | <br>[![Alt][3224]][3224]<p>YouTube TV</p> |         <br>[![Alt][3225]][3225]<p>Yr</p>         |          <br>[![Alt][3226]][3226]<p>Yubico</p>          |    <br>[![Alt][3227]][3227]<p>YunoHost</p>   |                                               |
+|      <br>[![Alt][3212]][3212]<p>Yarn</p>      |    <br>[![Alt][3213]][3213]<p>Yelp</p>    |        <br>[![Alt][3214]][3214]<p>Yeti</p>        |            <br>[![Alt][3215]][3215]<p>Yii</p>           |     <br>[![Alt][3216]][3216]<p>Yoast</p>     |      <br>[![Alt][3217]][3217]<p>YOLO</p>      |
+|    <br>[![Alt][3218]][3218]<p>YouHodler</p>   |   <br>[![Alt][3219]][3219]<p>YouTube</p>  |   <br>[![Alt][3220]][3220]<p>YouTube Gaming</p>   |       <br>[![Alt][3221]][3221]<p>YouTube Kids</p>       | <br>[![Alt][3222]][3222]<p>YouTube Music</p> | <br>[![Alt][3223]][3223]<p>YouTube Shorts</p> |
+| <br>[![Alt][3224]][3224]<p>YouTube Studio</p> | <br>[![Alt][3225]][3225]<p>YouTube TV</p> |         <br>[![Alt][3226]][3226]<p>Yr</p>         |          <br>[![Alt][3227]][3227]<p>Yubico</p>          |    <br>[![Alt][3228]][3228]<p>YunoHost</p>   |                                               |
 
-[3205]: https://img.shields.io/badge/yabai-00364B.svg?style=for-the-badge&logo=yabai&logoColor=white
+[3206]: https://img.shields.io/badge/yabai-00364B.svg?style=for-the-badge&logo=yabai&logoColor=white
 
-[3206]: https://img.shields.io/badge/Yale-FFD900.svg?style=for-the-badge&logo=Yale&logoColor=black
+[3207]: https://img.shields.io/badge/Yale-FFD900.svg?style=for-the-badge&logo=Yale&logoColor=black
 
-[3207]: https://img.shields.io/badge/Yamaha%20Corporation-4B1E78.svg?style=for-the-badge&logo=Yamaha-Corporation&logoColor=white
+[3208]: https://img.shields.io/badge/Yamaha%20Corporation-4B1E78.svg?style=for-the-badge&logo=Yamaha-Corporation&logoColor=white
 
-[3208]: https://img.shields.io/badge/Yamaha%20Motor%20Corporation-E60012.svg?style=for-the-badge&logo=Yamaha-Motor-Corporation&logoColor=white
+[3209]: https://img.shields.io/badge/Yamaha%20Motor%20Corporation-E60012.svg?style=for-the-badge&logo=Yamaha-Motor-Corporation&logoColor=white
 
-[3209]: https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white
+[3210]: https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white
 
-[3210]: https://img.shields.io/badge/Yandex%20Cloud-5282FF.svg?style=for-the-badge&logo=Yandex-Cloud&logoColor=white
+[3211]: https://img.shields.io/badge/Yandex%20Cloud-5282FF.svg?style=for-the-badge&logo=Yandex-Cloud&logoColor=white
 
-[3211]: https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white
+[3212]: https://img.shields.io/badge/Yarn-2C8EBB.svg?style=for-the-badge&logo=Yarn&logoColor=white
 
-[3212]: https://img.shields.io/badge/Yelp-FF1A1A.svg?style=for-the-badge&logo=Yelp&logoColor=white
+[3213]: https://img.shields.io/badge/Yelp-FF1A1A.svg?style=for-the-badge&logo=Yelp&logoColor=white
 
-[3213]: https://img.shields.io/badge/Yeti-00263C.svg?style=for-the-badge&logo=Yeti&logoColor=white
+[3214]: https://img.shields.io/badge/Yeti-00263C.svg?style=for-the-badge&logo=Yeti&logoColor=white
 
-[3214]: https://img.shields.io/badge/Yii-40B3D8.svg?style=for-the-badge&logo=Yii&logoColor=white
+[3215]: https://img.shields.io/badge/Yii-40B3D8.svg?style=for-the-badge&logo=Yii&logoColor=white
 
-[3215]: https://img.shields.io/badge/Yoast-A61E69.svg?style=for-the-badge&logo=Yoast&logoColor=white
+[3216]: https://img.shields.io/badge/Yoast-A61E69.svg?style=for-the-badge&logo=Yoast&logoColor=white
 
-[3216]: https://img.shields.io/badge/YOLO-111F68.svg?style=for-the-badge&logo=YOLO&logoColor=white
+[3217]: https://img.shields.io/badge/YOLO-111F68.svg?style=for-the-badge&logo=YOLO&logoColor=white
 
-[3217]: https://img.shields.io/badge/YouHodler-546DF9.svg?style=for-the-badge&logo=YouHodler&logoColor=white
+[3218]: https://img.shields.io/badge/YouHodler-546DF9.svg?style=for-the-badge&logo=YouHodler&logoColor=white
 
-[3218]: https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
+[3219]: https://img.shields.io/badge/YouTube-FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white
 
-[3219]: https://img.shields.io/badge/YouTube%20Gaming-FF0000.svg?style=for-the-badge&logo=YouTube-Gaming&logoColor=white
+[3220]: https://img.shields.io/badge/YouTube%20Gaming-FF0000.svg?style=for-the-badge&logo=YouTube-Gaming&logoColor=white
 
-[3220]: https://img.shields.io/badge/YouTube%20Kids-FF0000.svg?style=for-the-badge&logo=YouTube-Kids&logoColor=white
+[3221]: https://img.shields.io/badge/YouTube%20Kids-FF0000.svg?style=for-the-badge&logo=YouTube-Kids&logoColor=white
 
-[3221]: https://img.shields.io/badge/YouTube%20Music-FF0000.svg?style=for-the-badge&logo=YouTube-Music&logoColor=white
+[3222]: https://img.shields.io/badge/YouTube%20Music-FF0000.svg?style=for-the-badge&logo=YouTube-Music&logoColor=white
 
-[3222]: https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white
+[3223]: https://img.shields.io/badge/YouTube%20Shorts-FF0000.svg?style=for-the-badge&logo=YouTube-Shorts&logoColor=white
 
-[3223]: https://img.shields.io/badge/YouTube%20Studio-FF0000.svg?style=for-the-badge&logo=YouTube-Studio&logoColor=white
+[3224]: https://img.shields.io/badge/YouTube%20Studio-FF0000.svg?style=for-the-badge&logo=YouTube-Studio&logoColor=white
 
-[3224]: https://img.shields.io/badge/YouTube%20TV-FF0000.svg?style=for-the-badge&logo=YouTube-TV&logoColor=white
+[3225]: https://img.shields.io/badge/YouTube%20TV-FF0000.svg?style=for-the-badge&logo=YouTube-TV&logoColor=white
 
-[3225]: https://img.shields.io/badge/Yr-00B9F1.svg?style=for-the-badge&logo=Yr&logoColor=white
+[3226]: https://img.shields.io/badge/Yr-00B9F1.svg?style=for-the-badge&logo=Yr&logoColor=white
 
-[3226]: https://img.shields.io/badge/Yubico-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white
+[3227]: https://img.shields.io/badge/Yubico-84BD00.svg?style=for-the-badge&logo=Yubico&logoColor=white
 
-[3227]: https://img.shields.io/badge/YunoHost-000000.svg?style=for-the-badge&logo=YunoHost&logoColor=white
+[3228]: https://img.shields.io/badge/YunoHost-000000.svg?style=for-the-badge&logo=YunoHost&logoColor=white
 
 <h2>Z</h2>
 
-|      <br>[![Alt][3229]][3229]<p>Zaim</p>      |   <br>[![Alt][3230]][3230]<p>Zalando</p>   |   <br>[![Alt][3231]][3231]<p>Zalo</p>   |   <br>[![Alt][3232]][3232]<p>ZAP</p>   | <br>[![Alt][3233]][3233]<p>Zapier</p> |        <br>[![Alt][3234]][3234]<p>Zara</p>        |
+|      <br>[![Alt][3230]][3230]<p>Zaim</p>      |   <br>[![Alt][3231]][3231]<p>Zalando</p>   |   <br>[![Alt][3232]][3232]<p>Zalo</p>   |   <br>[![Alt][3233]][3233]<p>ZAP</p>   | <br>[![Alt][3234]][3234]<p>Zapier</p> |        <br>[![Alt][3235]][3235]<p>Zara</p>        |
 | :-------------------------------------------: | :----------------------------------------: | :-------------------------------------: | :------------------------------------: | :-----------------------------------: | :-----------------------------------------------: |
-|     <br>[![Alt][3235]][3235]<p>Zazzle</p>     |    <br>[![Alt][3236]][3236]<p>Zcash</p>    |   <br>[![Alt][3237]][3237]<p>ZCOOL</p>  |   <br>[![Alt][3238]][3238]<p>ZDF</p>   | <br>[![Alt][3239]][3239]<p>ZebPay</p> | <br>[![Alt][3240]][3240]<p>Zebra Technologies</p> |
-| <br>[![Alt][3241]][3241]<p>Zed Industries</p> |    <br>[![Alt][3242]][3242]<p>Zelle</p>    |   <br>[![Alt][3243]][3243]<p>Zend</p>   | <br>[![Alt][3244]][3244]<p>Zendesk</p> |  <br>[![Alt][3245]][3245]<p>Zenn</p>  |       <br>[![Alt][3246]][3246]<p>Zenodo</p>       |
-|     <br>[![Alt][3247]][3247]<p>Zensar</p>     |   <br>[![Alt][3248]][3248]<p>Zerodha</p>   | <br>[![Alt][3249]][3249]<p>ZeroTier</p> |  <br>[![Alt][3250]][3250]<p>Zettlr</p> |  <br>[![Alt][3251]][3251]<p>Zhihu</p> |         <br>[![Alt][3252]][3252]<p>Zig</p>        |
-|     <br>[![Alt][3253]][3253]<p>Zigbee</p>     | <br>[![Alt][3254]][3254]<p>Zigbee2MQTT</p> |   <br>[![Alt][3255]][3255]<p>Ziggo</p>  |  <br>[![Alt][3256]][3256]<p>Zilch</p>  | <br>[![Alt][3257]][3257]<p>Zillow</p> |     <br>[![Alt][3258]][3258]<p>ZincSearch</p>     |
-|     <br>[![Alt][3259]][3259]<p>Zingat</p>     |     <br>[![Alt][3260]][3260]<p>Zod</p>     |   <br>[![Alt][3261]][3261]<p>Zoho</p>   |  <br>[![Alt][3262]][3262]<p>Zoiper</p> | <br>[![Alt][3263]][3263]<p>Zomato</p> |        <br>[![Alt][3264]][3264]<p>Zoom</p>        |
-|      <br>[![Alt][3265]][3265]<p>Zorin</p>     |    <br>[![Alt][3266]][3266]<p>Zotero</p>   |    <br>[![Alt][3267]][3267]<p>Zsh</p>   |  <br>[![Alt][3268]][3268]<p>Zulip</p>  |  <br>[![Alt][3269]][3269]<p>Zyte</p>  |                                                   |
+|     <br>[![Alt][3236]][3236]<p>Zazzle</p>     |    <br>[![Alt][3237]][3237]<p>Zcash</p>    |   <br>[![Alt][3238]][3238]<p>ZCOOL</p>  |   <br>[![Alt][3239]][3239]<p>ZDF</p>   | <br>[![Alt][3240]][3240]<p>ZebPay</p> | <br>[![Alt][3241]][3241]<p>Zebra Technologies</p> |
+| <br>[![Alt][3242]][3242]<p>Zed Industries</p> |    <br>[![Alt][3243]][3243]<p>Zelle</p>    |   <br>[![Alt][3244]][3244]<p>Zend</p>   | <br>[![Alt][3245]][3245]<p>Zendesk</p> |  <br>[![Alt][3246]][3246]<p>Zenn</p>  |       <br>[![Alt][3247]][3247]<p>Zenodo</p>       |
+|     <br>[![Alt][3248]][3248]<p>Zensar</p>     |   <br>[![Alt][3249]][3249]<p>Zerodha</p>   | <br>[![Alt][3250]][3250]<p>ZeroTier</p> |  <br>[![Alt][3251]][3251]<p>Zettlr</p> |  <br>[![Alt][3252]][3252]<p>Zhihu</p> |         <br>[![Alt][3253]][3253]<p>Zig</p>        |
+|     <br>[![Alt][3254]][3254]<p>Zigbee</p>     | <br>[![Alt][3255]][3255]<p>Zigbee2MQTT</p> |   <br>[![Alt][3256]][3256]<p>Ziggo</p>  |  <br>[![Alt][3257]][3257]<p>Zilch</p>  | <br>[![Alt][3258]][3258]<p>Zillow</p> |     <br>[![Alt][3259]][3259]<p>ZincSearch</p>     |
+|     <br>[![Alt][3260]][3260]<p>Zingat</p>     |     <br>[![Alt][3261]][3261]<p>Zod</p>     |   <br>[![Alt][3262]][3262]<p>Zoho</p>   |  <br>[![Alt][3263]][3263]<p>Zoiper</p> | <br>[![Alt][3264]][3264]<p>Zomato</p> |        <br>[![Alt][3265]][3265]<p>Zoom</p>        |
+|      <br>[![Alt][3266]][3266]<p>Zorin</p>     |    <br>[![Alt][3267]][3267]<p>Zotero</p>   |    <br>[![Alt][3268]][3268]<p>Zsh</p>   |  <br>[![Alt][3269]][3269]<p>Zulip</p>  |  <br>[![Alt][3270]][3270]<p>Zyte</p>  |                                                   |
 
-[3229]: https://img.shields.io/badge/Zaim-50A135.svg?style=for-the-badge&logo=Zaim&logoColor=white
+[3230]: https://img.shields.io/badge/Zaim-50A135.svg?style=for-the-badge&logo=Zaim&logoColor=white
 
-[3230]: https://img.shields.io/badge/Zalando-FF6900.svg?style=for-the-badge&logo=Zalando&logoColor=white
+[3231]: https://img.shields.io/badge/Zalando-FF6900.svg?style=for-the-badge&logo=Zalando&logoColor=white
 
-[3231]: https://img.shields.io/badge/Zalo-0068FF.svg?style=for-the-badge&logo=Zalo&logoColor=white
+[3232]: https://img.shields.io/badge/Zalo-0068FF.svg?style=for-the-badge&logo=Zalo&logoColor=white
 
-[3232]: https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white
+[3233]: https://img.shields.io/badge/ZAP-00549E.svg?style=for-the-badge&logo=ZAP&logoColor=white
 
-[3233]: https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white
+[3234]: https://img.shields.io/badge/Zapier-FF4F00.svg?style=for-the-badge&logo=Zapier&logoColor=white
 
-[3234]: https://img.shields.io/badge/Zara-000000.svg?style=for-the-badge&logo=Zara&logoColor=white
+[3235]: https://img.shields.io/badge/Zara-000000.svg?style=for-the-badge&logo=Zara&logoColor=white
 
-[3235]: https://img.shields.io/badge/Zazzle-212121.svg?style=for-the-badge&logo=Zazzle&logoColor=white
+[3236]: https://img.shields.io/badge/Zazzle-212121.svg?style=for-the-badge&logo=Zazzle&logoColor=white
 
-[3236]: https://img.shields.io/badge/Zcash-F3B724.svg?style=for-the-badge&logo=Zcash&logoColor=black
+[3237]: https://img.shields.io/badge/Zcash-F3B724.svg?style=for-the-badge&logo=Zcash&logoColor=black
 
-[3237]: https://img.shields.io/badge/ZCOOL-FFF200.svg?style=for-the-badge&logo=ZCOOL&logoColor=black
+[3238]: https://img.shields.io/badge/ZCOOL-FFF200.svg?style=for-the-badge&logo=ZCOOL&logoColor=black
 
-[3238]: https://img.shields.io/badge/ZDF-FA7D19.svg?style=for-the-badge&logo=ZDF&logoColor=white
+[3239]: https://img.shields.io/badge/ZDF-FA7D19.svg?style=for-the-badge&logo=ZDF&logoColor=white
 
-[3239]: https://img.shields.io/badge/ZebPay-2072EF.svg?style=for-the-badge&logo=ZebPay&logoColor=white
+[3240]: https://img.shields.io/badge/ZebPay-2072EF.svg?style=for-the-badge&logo=ZebPay&logoColor=white
 
-[3240]: https://img.shields.io/badge/Zebra%20Technologies-000000.svg?style=for-the-badge&logo=Zebra-Technologies&logoColor=white
+[3241]: https://img.shields.io/badge/Zebra%20Technologies-000000.svg?style=for-the-badge&logo=Zebra-Technologies&logoColor=white
 
-[3241]: https://img.shields.io/badge/Zed%20Industries-084CCF.svg?style=for-the-badge&logo=Zed-Industries&logoColor=white
+[3242]: https://img.shields.io/badge/Zed%20Industries-084CCF.svg?style=for-the-badge&logo=Zed-Industries&logoColor=white
 
-[3242]: https://img.shields.io/badge/Zelle-6D1ED4.svg?style=for-the-badge&logo=Zelle&logoColor=white
+[3243]: https://img.shields.io/badge/Zelle-6D1ED4.svg?style=for-the-badge&logo=Zelle&logoColor=white
 
-[3243]: https://img.shields.io/badge/Zend-0679EA.svg?style=for-the-badge&logo=Zend&logoColor=white
+[3244]: https://img.shields.io/badge/Zend-0679EA.svg?style=for-the-badge&logo=Zend&logoColor=white
 
-[3244]: https://img.shields.io/badge/Zendesk-03363D.svg?style=for-the-badge&logo=Zendesk&logoColor=white
+[3245]: https://img.shields.io/badge/Zendesk-03363D.svg?style=for-the-badge&logo=Zendesk&logoColor=white
 
-[3245]: https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=Zenn&logoColor=white
+[3246]: https://img.shields.io/badge/Zenn-3EA8FF.svg?style=for-the-badge&logo=Zenn&logoColor=white
 
-[3246]: https://img.shields.io/badge/Zenodo-1682D4.svg?style=for-the-badge&logo=Zenodo&logoColor=white
+[3247]: https://img.shields.io/badge/Zenodo-1682D4.svg?style=for-the-badge&logo=Zenodo&logoColor=white
 
-[3247]: https://img.shields.io/badge/Zensar-000000.svg?style=for-the-badge&logo=Zensar&logoColor=white
+[3248]: https://img.shields.io/badge/Zensar-000000.svg?style=for-the-badge&logo=Zensar&logoColor=white
 
-[3248]: https://img.shields.io/badge/Zerodha-387ED1.svg?style=for-the-badge&logo=Zerodha&logoColor=white
+[3249]: https://img.shields.io/badge/Zerodha-387ED1.svg?style=for-the-badge&logo=Zerodha&logoColor=white
 
-[3249]: https://img.shields.io/badge/ZeroTier-FFB441.svg?style=for-the-badge&logo=ZeroTier&logoColor=black
+[3250]: https://img.shields.io/badge/ZeroTier-FFB441.svg?style=for-the-badge&logo=ZeroTier&logoColor=black
 
-[3250]: https://img.shields.io/badge/Zettlr-1CB27E.svg?style=for-the-badge&logo=Zettlr&logoColor=white
+[3251]: https://img.shields.io/badge/Zettlr-1CB27E.svg?style=for-the-badge&logo=Zettlr&logoColor=white
 
-[3251]: https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white
+[3252]: https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white
 
-[3252]: https://img.shields.io/badge/Zig-F7A41D.svg?style=for-the-badge&logo=Zig&logoColor=white
+[3253]: https://img.shields.io/badge/Zig-F7A41D.svg?style=for-the-badge&logo=Zig&logoColor=white
 
-[3253]: https://img.shields.io/badge/Zigbee-EB0443.svg?style=for-the-badge&logo=Zigbee&logoColor=white
+[3254]: https://img.shields.io/badge/Zigbee-EB0443.svg?style=for-the-badge&logo=Zigbee&logoColor=white
 
-[3254]: https://img.shields.io/badge/Zigbee2MQTT-FFC135.svg?style=for-the-badge&logo=Zigbee2MQTT&logoColor=black
+[3255]: https://img.shields.io/badge/Zigbee2MQTT-FFC135.svg?style=for-the-badge&logo=Zigbee2MQTT&logoColor=black
 
-[3255]: https://img.shields.io/badge/Ziggo-F48C00.svg?style=for-the-badge&logo=Ziggo&logoColor=white
+[3256]: https://img.shields.io/badge/Ziggo-F48C00.svg?style=for-the-badge&logo=Ziggo&logoColor=white
 
-[3256]: https://img.shields.io/badge/Zilch-00D287.svg?style=for-the-badge&logo=Zilch&logoColor=white
+[3257]: https://img.shields.io/badge/Zilch-00D287.svg?style=for-the-badge&logo=Zilch&logoColor=white
 
-[3257]: https://img.shields.io/badge/Zillow-006AFF.svg?style=for-the-badge&logo=Zillow&logoColor=white
+[3258]: https://img.shields.io/badge/Zillow-006AFF.svg?style=for-the-badge&logo=Zillow&logoColor=white
 
-[3258]: https://img.shields.io/badge/ZincSearch-5BA37F.svg?style=for-the-badge&logo=ZincSearch&logoColor=white
+[3259]: https://img.shields.io/badge/ZincSearch-5BA37F.svg?style=for-the-badge&logo=ZincSearch&logoColor=white
 
-[3259]: https://img.shields.io/badge/Zingat-009CFB.svg?style=for-the-badge&logo=Zingat&logoColor=white
+[3260]: https://img.shields.io/badge/Zingat-009CFB.svg?style=for-the-badge&logo=Zingat&logoColor=white
 
-[3260]: https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white
+[3261]: https://img.shields.io/badge/Zod-3E67B1.svg?style=for-the-badge&logo=Zod&logoColor=white
 
-[3261]: https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white
+[3262]: https://img.shields.io/badge/Zoho-E42527.svg?style=for-the-badge&logo=Zoho&logoColor=white
 
-[3262]: https://img.shields.io/badge/Zoiper-F47920.svg?style=for-the-badge&logo=Zoiper&logoColor=white
+[3263]: https://img.shields.io/badge/Zoiper-F47920.svg?style=for-the-badge&logo=Zoiper&logoColor=white
 
-[3263]: https://img.shields.io/badge/Zomato-E23744.svg?style=for-the-badge&logo=Zomato&logoColor=white
+[3264]: https://img.shields.io/badge/Zomato-E23744.svg?style=for-the-badge&logo=Zomato&logoColor=white
 
-[3264]: https://img.shields.io/badge/Zoom-0B5CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white
+[3265]: https://img.shields.io/badge/Zoom-0B5CFF.svg?style=for-the-badge&logo=Zoom&logoColor=white
 
-[3265]: https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white
+[3266]: https://img.shields.io/badge/Zorin-15A6F0.svg?style=for-the-badge&logo=Zorin&logoColor=white
 
-[3266]: https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white
+[3267]: https://img.shields.io/badge/Zotero-CC2936.svg?style=for-the-badge&logo=Zotero&logoColor=white
 
-[3267]: https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white
+[3268]: https://img.shields.io/badge/Zsh-F15A24.svg?style=for-the-badge&logo=Zsh&logoColor=white
 
-[3268]: https://img.shields.io/badge/Zulip-6492FE.svg?style=for-the-badge&logo=Zulip&logoColor=white
+[3269]: https://img.shields.io/badge/Zulip-6492FE.svg?style=for-the-badge&logo=Zulip&logoColor=white
 
-[3269]: https://img.shields.io/badge/Zyte-B02CCE.svg?style=for-the-badge&logo=Zyte&logoColor=white
+[3270]: https://img.shields.io/badge/Zyte-B02CCE.svg?style=for-the-badge&logo=Zyte&logoColor=white
 
 
 <!-- AUTO-GENERATED-CONTENT:END -->
