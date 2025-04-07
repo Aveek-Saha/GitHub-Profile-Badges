@@ -1513,7 +1513,7 @@ OR
 
 [686]: https://img.shields.io/badge/CurseForge-F16436.svg?style=for-the-badge&logo=CurseForge&logoColor=white
 
-[687]: https://img.shields.io/badge/Custom%20Ink-4051B5.svg?style=for-the-badge&logo=Custom-Ink&logoColor=white
+[687]: https://img.shields.io/badge/Custom%20Ink-FA3C00.svg?style=for-the-badge&logo=Custom-Ink&logoColor=white
 
 [688]: https://img.shields.io/badge/CyberDefenders-335EEA.svg?style=for-the-badge&logo=CyberDefenders&logoColor=white
 
@@ -4027,7 +4027,7 @@ OR
 
 [1834]: https://img.shields.io/badge/Movistar-019DF4.svg?style=for-the-badge&logo=Movistar&logoColor=white
 
-[1835]: https://img.shields.io/badge/Mozilla-000000.svg?style=for-the-badge&logo=Mozilla&logoColor=white
+[1835]: https://img.shields.io/badge/Mozilla-161616.svg?style=for-the-badge&logo=Mozilla&logoColor=white
 
 [1836]: https://img.shields.io/badge/mpv-691F69.svg?style=for-the-badge&logo=mpv&logoColor=white
 
