@@ -535,7 +535,7 @@ OR
 
 [231]: https://img.shields.io/badge/ARAL-0063CB.svg?style=for-the-badge&logo=ARAL&logoColor=white
 
-[232]: https://img.shields.io/badge/ArangoDB-DDE072.svg?style=for-the-badge&logo=ArangoDB&logoColor=black
+[232]: https://img.shields.io/badge/ArangoDB-DDDF72.svg?style=for-the-badge&logo=ArangoDB&logoColor=black
 
 [233]: https://img.shields.io/badge/Arc-FCBFBD.svg?style=for-the-badge&logo=Arc&logoColor=black
 
@@ -3767,7 +3767,7 @@ OR
 
 [1704]: https://img.shields.io/badge/ManageIQ-EF2929.svg?style=for-the-badge&logo=ManageIQ&logoColor=white
 
-[1705]: https://img.shields.io/badge/Manjaro-35BF5C.svg?style=for-the-badge&logo=Manjaro&logoColor=white
+[1705]: https://img.shields.io/badge/Manjaro-35BFA4.svg?style=for-the-badge&logo=Manjaro&logoColor=white
 
 [1706]: https://img.shields.io/badge/Mantine-339AF0.svg?style=for-the-badge&logo=Mantine&logoColor=white
 
