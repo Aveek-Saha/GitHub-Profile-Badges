@@ -1751,7 +1751,7 @@ OR
 
 [793]: https://img.shields.io/badge/Douban-2D963D.svg?style=for-the-badge&logo=Douban&logoColor=white
 
-[794]: https://img.shields.io/badge/Douban%20Read-389EAC.svg?style=for-the-badge&logo=Douban-Read&logoColor=white
+[794]: https://img.shields.io/badge/Douban%20Read-24D2C8.svg?style=for-the-badge&logo=Douban-Read&logoColor=white
 
 [795]: https://img.shields.io/badge/Dovecot-54BCAB.svg?style=for-the-badge&logo=Dovecot&logoColor=white
 
