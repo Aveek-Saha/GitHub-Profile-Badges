@@ -829,7 +829,7 @@ OR
 
 [366]: https://img.shields.io/badge/Blueprint-137CBD.svg?style=for-the-badge&logo=Blueprint&logoColor=white
 
-[367]: https://img.shields.io/badge/Bluesky-0285FF.svg?style=for-the-badge&logo=Bluesky&logoColor=white
+[367]: https://img.shields.io/badge/Bluesky-1185FE.svg?style=for-the-badge&logo=Bluesky&logoColor=white
 
 [368]: https://img.shields.io/badge/Bluesound-0F131E.svg?style=for-the-badge&logo=Bluesound&logoColor=white
 
