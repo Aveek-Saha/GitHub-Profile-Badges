@@ -2450,7 +2450,7 @@ OR
 
 [1103]: https://img.shields.io/badge/GIPHY-FF6666.svg?style=for-the-badge&logo=GIPHY&logoColor=white
 
-[1104]: https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white
+[1104]: https://img.shields.io/badge/Git-F03C2E.svg?style=for-the-badge&logo=Git&logoColor=white
 
 [1105]: https://img.shields.io/badge/Git%20Extensions-212121.svg?style=for-the-badge&logo=Git-Extensions&logoColor=white
 
