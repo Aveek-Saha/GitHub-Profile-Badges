@@ -2039,7 +2039,7 @@ OR
 
 [926]: https://img.shields.io/badge/Expo-1C2024.svg?style=for-the-badge&logo=Expo&logoColor=white
 
-[927]: https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white
+[927]: https://img.shields.io/badge/Express-0A0A0A.svg?style=for-the-badge&logo=Express&logoColor=white
 
 [928]: https://img.shields.io/badge/Express.com-000000.svg?style=for-the-badge&logo=expressdotcom&logoColor=white
 
