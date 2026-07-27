@@ -3350,7 +3350,7 @@ OR
 |      <br>[![Alt][1548]][1548]<p>Keep a Changelog</p>      |   <br>[![Alt][1549]][1549]<p>KeePassXC</p>   |     <br>[![Alt][1550]][1550]<p>Keeper</p>    |   <br>[![Alt][1551]][1551]<p>KeeWeb</p>   |        <br>[![Alt][1552]][1552]<p>Kenmei</p>       |  <br>[![Alt][1553]][1553]<p>Kentico</p>  |
 |           <br>[![Alt][1554]][1554]<p>Keploy</p>           |     <br>[![Alt][1555]][1555]<p>Keras</p>     |    <br>[![Alt][1556]][1556]<p>Keybase</p>    |   <br>[![Alt][1557]][1557]<p>KeyCDN</p>   |       <br>[![Alt][1558]][1558]<p>Keycloak</p>      |  <br>[![Alt][1559]][1559]<p>Keystone</p> |
 |             <br>[![Alt][1560]][1560]<p>KFC</p>            |  <br>[![Alt][1561]][1561]<p>Khan Academy</p> | <br>[![Alt][1562]][1562]<p>Khronos Group</p> |     <br>[![Alt][1563]][1563]<p>Kia</p>    |        <br>[![Alt][1564]][1564]<p>Kibana</p>       |   <br>[![Alt][1565]][1565]<p>KiCad</p>   |
-|            <br>[![Alt][1566]][1566]<p>Kick</p>            |  <br>[![Alt][1567]][1567]<p>Kickstarter</p>  |      <br>[![Alt][1568]][1568]<p>Kik</p>      |    <br>[![Alt][1569]][1569]<p>KIMI</p>    | <br>[![Alt][1570]][1570]<p>Kingston Technology</p> | <br>[![Alt][1571]][1571]<p>Kinopoisk</p> |
+|            <br>[![Alt][1566]][1566]<p>Kick</p>            |  <br>[![Alt][1567]][1567]<p>Kickstarter</p>  |      <br>[![Alt][1568]][1568]<p>Kik</p>      |    <br>[![Alt][1569]][1569]<p>Kimi</p>    | <br>[![Alt][1570]][1570]<p>Kingston Technology</p> | <br>[![Alt][1571]][1571]<p>Kinopoisk</p> |
 |           <br>[![Alt][1572]][1572]<p>Kinsta</p>           |     <br>[![Alt][1573]][1573]<p>Kirby</p>     |      <br>[![Alt][1574]][1574]<p>Kit</p>      |    <br>[![Alt][1575]][1575]<p>Kitsu</p>   |        <br>[![Alt][1576]][1576]<p>Kiwix</p>        |   <br>[![Alt][1577]][1577]<p>Klarna</p>  |
 |        <br>[![Alt][1578]][1578]<p>Kleinanzeigen</p>       |      <br>[![Alt][1579]][1579]<p>KLM</p>      |     <br>[![Alt][1580]][1580]<p>Klook</p>     |   <br>[![Alt][1581]][1581]<p>Knative</p>  |       <br>[![Alt][1582]][1582]<p>Knex.js</p>       |   <br>[![Alt][1583]][1583]<p>KNIME</p>   |
 |            <br>[![Alt][1584]][1584]<p>Knip</p>            | <br>[![Alt][1585]][1585]<p>KnowledgeBase</p> |     <br>[![Alt][1586]][1586]<p>Known</p>     |    <br>[![Alt][1587]][1587]<p>Ko-fi</p>   |         <br>[![Alt][1588]][1588]<p>Koa</p>         |    <br>[![Alt][1589]][1589]<p>Koc</p>    |
@@ -3450,7 +3450,7 @@ OR
 
 [1568]: https://img.shields.io/badge/Kik-82BC23.svg?style=for-the-badge&logo=Kik&logoColor=white
 
-[1569]: https://img.shields.io/badge/KIMI-000000.svg?style=for-the-badge&logo=KIMI&logoColor=white
+[1569]: https://img.shields.io/badge/Kimi-000000.svg?style=for-the-badge&logo=Kimi&logoColor=white
 
 [1570]: https://img.shields.io/badge/Kingston%20Technology-000000.svg?style=for-the-badge&logo=Kingston-Technology&logoColor=white
 
