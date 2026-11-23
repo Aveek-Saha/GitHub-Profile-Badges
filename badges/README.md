@@ -3962,7 +3962,7 @@ OR
 
 [1795]: https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white
 
-[1796]: https://img.shields.io/badge/Marko-2596BE.svg?style=for-the-badge&logo=Marko&logoColor=white
+[1796]: https://img.shields.io/badge/Marko-CC0067.svg?style=for-the-badge&logo=Marko&logoColor=white
 
 [1797]: https://img.shields.io/badge/Marriott-A70023.svg?style=for-the-badge&logo=Marriott&logoColor=white
 
@@ -4364,7 +4364,7 @@ OR
 
 [1985]: https://img.shields.io/badge/Netim-FE8427.svg?style=for-the-badge&logo=Netim&logoColor=white
 
-[1986]: https://img.shields.io/badge/Netlify-00C7B7.svg?style=for-the-badge&logo=Netlify&logoColor=white
+[1986]: https://img.shields.io/badge/Netlify-000000.svg?style=for-the-badge&logo=Netlify&logoColor=white
 
 [1987]: https://img.shields.io/badge/Nette-3484D2.svg?style=for-the-badge&logo=Nette&logoColor=white
 
